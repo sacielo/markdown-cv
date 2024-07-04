@@ -14,7 +14,8 @@ Dr. Rer. Nat., Astrophysicist, HPC Expert
 >  "In order to live free and happily
 >   you must sacrifice boredom. 
 >   It is not always an easy sacrifice."
->   -- <cite>Richard Bach</cite>
+> 
+>   -- <cite>_Richard Bach_</cite>
 
 ## Currently / Derzeit
 
