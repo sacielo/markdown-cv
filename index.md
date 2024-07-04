@@ -16,16 +16,16 @@ Dr. Rer. Nat., Astrophysicist, HPC Expert
 >   It is not always an easy sacrifice."
 >   -- <cite>Richard Bach</cite>
 
-## Currently
+## Currently / Derzeit
 
 In force to _Computational X Support_ Team at [Leibniz-Rechenzentrum](https://www.lrz.de/)
 
-### Specialized in
+### Specializes in / Specialisiert auf
 
 Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
 
-### Research interests
+### Forschung / Research 
 
 Cooling, power series, optics, alchemy, planetary motions, apples.
 
@@ -45,20 +45,20 @@ __Trinity College, Cambridge__
 
 - Fellow
 
-
-
 ## Awards
 
-`2012`
+`2021-`
 President, *Royal Society*, London, UK
 
 Associate, *French Academy of Science*, Paris, France
 
+## Selected Publications
 
+> Please check [My ORCID](https://orcid.org/my-orcid?orcid=0000-0002-2019-8187)  and 
+> [My NASA/ADS](https://ui.adsabs.harvard.edu/search/q=author%3A%22Cielo%2C%20Salvatore%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
+> for a more comprehensive list
 
-## Publications
-
-<!-- Please check (My ORCID)[https://orcid.org/my-orcid?orcid=0000-0002-2019-8187] and (My NASA/ADS)[https://ui.adsabs.harvard.edu/search/q=author%3A%22Cielo%2C%20Salvatore%22&sort=date%20desc%2C%20bibcode%20desc&p_=0 -->
+### Conference Proceedings
 
 ### Journals
 
@@ -70,13 +70,13 @@ Lectiones opticæ.
 
 etc. etc. etc.
 
-### Patents
+### Unpublished dissertations
 
 `2012`
 Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
 
-## Occupation
+## Teaching 
 
 `1600`
 __Royal Mint__, London
