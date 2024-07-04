@@ -10,10 +10,11 @@ Dr. Rer. Nat., Astrophysicist, HPC Expert
 | <a href="https://sacielo.github.io/markdown-cv/">My online CV</a>
 </div>
 
+
 >  "In order to live free and happily
->    you must sacrifice boredom. 
->    It is not always an easy sacrifice."
->  - _Richard Bach_
+>   you must sacrifice boredom. 
+>   It is not always an easy sacrifice."
+>   -- <cite>Richard Bach</cite>
 
 ## Currently
 
