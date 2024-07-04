@@ -10,10 +10,11 @@ Dr. Rer. Nat., Astrophysicist, HPC Expert
 | <a href="https://sacielo.github.io/markdown-cv/">My online CV</a>
 </div>
 
+
 >  "In order to live free and happily
->    you must sacrifice boredom. 
->    It is not always an easy sacrifice."
->  - _Richard Bach_
+>   you must sacrifice boredom. 
+>   It is not always an easy sacrifice."
+>   -- <cite>Richard Bach</cite>
 
 ## Currently
 
@@ -31,7 +32,7 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
+`2021-10-10 : Today`
 __The King's School, Grantham.__
 
 `June 1661 - now`
@@ -57,8 +58,9 @@ Associate, *French Academy of Science*, Paris, France
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
+<!-- Please check (My ORCID)[https://orcid.org/my-orcid?orcid=0000-0002-2019-8187] and
+(My NASA/ADS)[https://ui.adsabs.harvard.edu/search/q=author%3A%22Cielo%2C%20Salvatore%22&sort=date%20desc%2C%20bibcode%20desc&p_=0
+-->
 ### Journals
 
 `1669`
