@@ -58,9 +58,8 @@ Associate, *French Academy of Science*, Paris, France
 
 ## Publications
 
-<!-- Please check (My ORCID)[https://orcid.org/my-orcid?orcid=0000-0002-2019-8187] and
-(My NASA/ADS)[https://ui.adsabs.harvard.edu/search/q=author%3A%22Cielo%2C%20Salvatore%22&sort=date%20desc%2C%20bibcode%20desc&p_=0
--->
+<!-- Please check (My ORCID)[https://orcid.org/my-orcid?orcid=0000-0002-2019-8187] and (My NASA/ADS)[https://ui.adsabs.harvard.edu/search/q=author%3A%22Cielo%2C%20Salvatore%22&sort=date%20desc%2C%20bibcode%20desc&p_=0 -->
+
 ### Journals
 
 `1669`
