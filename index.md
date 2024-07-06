@@ -10,8 +10,23 @@ Dr. Rer. Nat., Astrophysicist, HPC Expert
 > 
 >   -- <cite>_Richard Bach_</cite>
 
-## Contact 
+## Personal
+> Kennst du das Land, wo die Zitronen blühn [...]?
+> 
+> -- J.W. Goethe
 
+### Date of birth 
+1986-08-27
+
+### Place of birth
+Palermo, Italy
+
+### Citizenship
+Italian
+
+## Contact 
+> "Be patient, for the world is broad and wide."
+>   --_E. A. Abbott_
 
 ### Affiliation
 Leibniz Supercomputing Centre (LRZ) of the Bavarian Academy of Science and Humanities
@@ -25,44 +40,47 @@ Tel +49 (0)89 35831 7880
 ### Online
 <div id="webaddress">
 <a href="cielo@lrz.de">cielo@lrz.de</a>
-| <a href="https://sacielo.github.io/markdown-cv/">My online CV</a>
+| <a href="https://sacielo.github.io/markdown-cv/"> This CV in online form </a>
 </div>
 
 ## Primary Skills
 ### Key abilities
 - Years-long expertise on _High-Performance Computing_ (HPC) with focus on Application Support
-- Deep knowlegde of etherogeneous HPC hardware through cross-architeture performance tuning of multiple code basis
+- Deep knowlegde of etherogeneous HPC hardware through cross-architeture performance tuning of multiple code basis and across several programming languages
 - Creation and maintenance of software stack for HPC systems
-
+- Cross-architecture GPU programming
+  
 ### Soft skills
 - Team leading and project management
 - Scientific communication, teaching and public speaking
-- Opportunity identification for procurement of hardware and services
+- Involvement in multiple procurements of hardware and services
+- Reviewer of papers and proposal for HPC and Astrophysics
+- Community building including team mates, colleagues from other groups, user base and vendors
 
 ### Research interests
 - Functionality, performance and portability of scientific applications
-- Cross-architecture GPU programming
 - Award-winning scientific visualizations
-- Fundamental Physics, Extragalactic Astrophysics
+- Fundamental Physics, Extragalactic Astrophysics and Black Holes
 
-
-
-- Part of _Computational X Support_ Team at [Leibniz-Rechenzentrum](https://www.lrz.de/)
-- AstroLab 
-
-### Specializes in / Specialisiert auf
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Forschung / Research 
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
+## Professional life and Education 
+`2021-10-10 : Today`
+- AstroLab Team Leader
 
 `2021-10-10 : Today`
+- Part of _Computational X Support_ Team at [Leibniz-Rechenzentrum](https://www.lrz.de/)
+- Member of AstroLab, application support for Astrophycs
+  
+`2021-10-10 : Today`
+- Postoc
+`2021-10-10 : Today`
+- PhD 
+`2021-10-10 : Today`
+- SSC
+`2021-10-10 : Today`
+- bachelor and master
+
+
+
 __The King's School, Grantham.__
 
 `June 1661 - now`
