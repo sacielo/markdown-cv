@@ -29,7 +29,7 @@ Italian
 [Leibniz Supercomputing Centre](https://www.lrz.de/)(LRZ) of the Bavarian Academy of Science and Humanities
 
 ### Address
-Boltzmannstr. 1, D-85748 Garching bei München
+Boltzmannstr. 1, D-85748, Garching bei München
 
 ### Phone
 Tel +49 (0)89 35831 7880
@@ -57,13 +57,17 @@ Tel +49 (0)89 35831 7880
 `Technical`
 - Reviewer of papers and proposal for HPC and Astrophysics
 - Scientific communication, teaching and public speaking
+- 
 `Management`  
 - Team leading and project management
 - Involvement in multiple procurements of hardware and services
 - Community building including team mates, colleagues across groups, user base and vendors
 
 ### Research interests
-`Scientific Application`
+```
+Scientific
+Applications
+```
 - Functionality, performance and portability of scientific applications
 - Award-winning scientific visualizations
 - Fundamental Physics, Extragalactic Astrophysics and Black Holes
