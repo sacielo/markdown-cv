@@ -42,8 +42,7 @@ Tel +49 (0)89 35831 7880
 <a href="https://sacielo.github.io/markdown-cv/"> sacielo.github.io/markdown-cv  </a>
 
 ## Primary Skills
-> "[...] it was established thousands of years ago that
-> the Universe as a whole, in its full complexity, cannot
+> "[...] the Universe as a whole, in its full complexity, cannot
 > be represented by any simulation smaller than itself."
 > -- _I. Asimov_
 
@@ -58,7 +57,8 @@ Tel +49 (0)89 35831 7880
 `Technical`
 - Reviewer of papers and proposal for HPC and Astrophysics
 - Scientific communication, teaching and public speaking
-  
+
+
 `Management`  
 - Team leading and project management
 - Involvement in multiple procurements of hardware and services
