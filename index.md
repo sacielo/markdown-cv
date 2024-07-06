@@ -85,14 +85,14 @@ __Lebiniz Supercomputing Centre__
 - Member of AstroLab, application support for Astrophysics
   
 Application support activities introduced me to a vast user base, and to products and solutions from HPC vendors, while provided me with experience in profiling tools and code modernization efforts.
-The [high-level support](https://doku.lrz.de/high-level-support-projects-10747323.html) activivities in the _Gauss Center from Supercomputing_ often resulted in large collaborations, well-received HPC publications and conference submissions, and the provisioning of novel services to LRZ users.
+The [research](https://doku.lrz.de/research-and-development-projects-10747346.html) and [high-level support](https://doku.lrz.de/high-level-support-projects-10747323.html) activivities in the _Gauss Center from Supercomputing_ often resulted in large collaborations, well-received HPC publications and conference submissions, and the provisioning of novel services to LRZ users.
 
 ### Researcher
 `2015 : 2018`
 __Institut d'Astrophisique de Paris, Paris, France__
-- Postoctoral Researcher  "BLACK Fellowship"
+- Postoctoral Researcher  "BLACK Fellow"
 
-I was granted large allocation on Supercomputers and learnt to set up large (several thousands of cores) numerical models, in order to investigate the roles of Active Galactic Nuclei (AGN) on keeping Galaxies and Galaxy Clusters stable. 
+I was granted large allocation on national Supercomputers and learnt to set up large (several thousands of cores) numerical models, in order to investigate the roles of Active Galactic Nuclei (AGN) on the stability of Galaxies and Galaxy Clusters. 
 
 __Max Planck Institute for Astronomy, Heidelberg, Germany__
 `2011 : 2015` 
@@ -106,8 +106,7 @@ __Universita' di Catania, Catania, Italy__
 - B.Sc. and M.Sc. student in Physics, oriented to Astrophysics and and Space Physics
 - Pupil at the Excellency School "Scuola Superiore di Catania" (SSC)
 
-My undergraduate studies gave me a scientific education well-balanced among theory, experiment and computer science.
-My SSC scholarship provided additional courses such as _numerical methods for science_, _Neuroinformatics and neural networks_, and _Statistical Physics_ and allowed the discussion an additional dissertation.
+My undergraduate studies gave me a scientific education well-balanced among theorethical and experimental Physics, astronomical observations and computer science. In parallel, my SSC scholarship provided complementary and advanced courses such as _numerical methods for science_, _Neuroinformatics and neural networks_, and _Statistical Physics_ and allowed the discussion an additional dissertation.
 
 ## Awards
 `2024` Press coverage for 10^4
@@ -117,36 +116,15 @@ My SSC scholarship provided additional courses such as _numerical methods for sc
 `202x` Cover of Inside
 `2019` SC19 finalist
 
-## Organizational activities
+## Organizational Activities
+
+### Projects Organization 
 `2024` SoC exascale at Julich
 `202` Co-I for James
 `202` Co-I for DPecho project
-`2021-Today`  PUnch-4-NFDI
-`` 
+`2021-Today`  Punch-4-NFDI
 
-## Publications
-
-> A reasoned selection is given for brevity. Please check my [ORCID](https://orcid.org/my-orcid?orcid=0000-0002-2019-8187)  and my [NASA/ADS](https://ui.adsabs.harvard.edu/search/q=author%3A%22Cielo%2C%20Salvatore%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
-> records for a more comprehensive list.
-
-### Conferences
-`2024` PASC24
-`2024` HiPEAC
-`2023` SYCLcon23 
-`2021` SC21
-`2019` SC19
-
-### Journals
-BHAC
-
-### Other
-`2024` James's 10^4
-`2022` PUM - DPecho
-`2022` PUM - python
-`2015` PhD Thesis
-
-## Teaching 
-
+### Teaching 
 `2022`
 Visit & co.
 
@@ -155,6 +133,40 @@ Course at erlangen
 
 `2013 : 2014`
 Advanced prakticum
+
+### Mentorship
+
+`2024` Ranjith
+
+## Publications
+
+> A reasoned selection is given for brevity. Please check my [ORCID](https://orcid.org/my-orcid?orcid=0000-0002-2019-8187)  and my [NASA/ADS](https://ui.adsabs.harvard.edu/search/q=author%3A%22Cielo%2C%20Salvatore%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
+> records for a more comprehensive list.
+
+### Journals
+`2022` [Optimizing the hybrid parallelization of BHAC](https://ui.adsabs.harvard.edu/#abs/2022A%26C....3800509C/abstract)
+
+`2021` [Visualizing the world's largest turbulence simulation](https://www.sciencedirect.com/science/article/abs/pii/S016781912100017X)
+
+`2020` [Honing and proofing Astrophysical codes on the road to Exascale. Experiences from code modernization on many-core systems](https://www.sciencedirect.com/science/article/pii/S0167739X19308350)
+
+`2018` [Feedback from reorienting AGN jets. I. Jet-ICM coupling, cavity properties and global energetic](https://ui.adsabs.harvard.edu/abs/2018A%26A...617A..58C/abstract)
+
+### Conferences
+`2024` PASC24
+`2024` HiPEAC
+`2023` SYCLcon23 
+`2023` Workshop visiualization & turbulence
+`2021` SC21
+`2019` SC19
+
+### Other
+`2024` James's 10^4
+`2022` PUM - DPecho
+`2022` PUM - python
+`2015` Ph.D. Dissertation with bilingual (EN/DE) abstract: [Numerical models of AGN jet feedback](https://ui.adsabs.harvard.edu/#abs/2015PhDT.......411C/abstract)
+
+
 
 
 
