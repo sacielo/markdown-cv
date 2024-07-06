@@ -5,7 +5,6 @@ title: Salvatore Cielo's CV
 # Salvatore Cielo, Ph.D.
 Dr. Rer. Nat., Astrophysicist, HPC Expert
 
-
 >  "In order to live free and happily
 >   you must sacrifice boredom. 
 >   It is not always an easy sacrifice."
@@ -21,7 +20,8 @@ Dr. Rer. Nat., Astrophysicist, HPC Expert
 
 ## Currently / Derzeit
 
-In force to _Computational X Support_ Team at [Leibniz-Rechenzentrum](https://www.lrz.de/)
+- Part of _Computational X Support_ Team at [Leibniz-Rechenzentrum](https://www.lrz.de/)
+- AstroLab 
 
 ### Specializes in / Specialisiert auf
 
