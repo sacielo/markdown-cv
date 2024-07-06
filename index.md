@@ -13,7 +13,7 @@ Dr. Rer. Nat., Astrophysicist, HPC Expert
 > "Kennst du das Land, wo die Zitronen blühn [...]?"
 > -- _J.W. Goethe_
 
-### Personal Information
+### Personal
 `Date of birth`
 1986-08-27
 
@@ -24,8 +24,6 @@ Palermo, Italy
 Italian
 
 ### Contact 
-> "Be patient, for the world is broad and wide."
-> -- _E. A. Abbott_
 
 `Affiliation`
 [Leibniz Supercomputing Centre](https://www.lrz.de/)(LRZ) of the Bavarian Academy of Science and Humanities
@@ -74,10 +72,11 @@ Tel +49 (0)89 35831 7880
 - Fundamental Physics, Extragalactic Astrophysics and Black Holes
 
 ## Professional life and Education 
-> "Some day you will be old enough to start reading fairy tales again."
-> --_C. S. Lewis_
+> "Be patient, for the world is broad and wide."
+> -- _E. A. Abbott_
 
-### Lebiniz Supercomputing Centre
+### HPC Expert
+__Lebiniz Supercomputing Centre__
 `2021 : Today`
 - [AstroLab](https://doku.lrz.de/astrolab-10746577.html) Team Leader
   
@@ -90,26 +89,27 @@ In addition to application support, I coordinated the activities of the AstroLab
 Application support activities introduced me to a vast user base, and to products and solutions from HPC vendors, while provided me with experience in profiling tools and code modernization efforts.
 The [high-level support](https://doku.lrz.de/high-level-support-projects-10747323.html) activivities in the _Gauss Center from Supercomputing_ often resulted in large collaborations, well-received HPC publications and conference submissions, and the provisioning of novel services to LRZ users.
 
-### Institut d'Astrophisique de Paris, Paris, France
+### Researcher
+__Institut d'Astrophisique de Paris, Paris, France__
 `2015 : 2018`
 - Postoctoral Researcher  "BLACK Fellowship"
 
 I was granted large allocation on Supercomputers and learnt to set up large (several thousands of cores) numerical models, in order to investigate the roles of Active Galactic Nuclei (AGN) on keeping Galaxies and Galaxy Clusters stable. 
 
-### Max Planck Institute for Astronomy, Heidelberg, Germany
+__Max Planck Institute for Astronomy, Heidelberg, Germany__
 `2011 : 2015` 
 - Ph.D. Student within the "International Max Planck Research School"
 
 I used a broad range of numerical simulations to help constrain the role of Active Galactic Nuclei on the star formation rates in observed galaxies. I also learned about the role of numerical models in the scientific method, and largely improved my parallel programming skills.
 
-### Universita' di Catania, Catania, Italy
+### Student
+__Universita' di Catania, Catania, Italy__
 `2006 : 2011`
 - B.Sc. and M.Sc. student in Physics, oriented to Astrophysics and and Space Physics
 - Pupil at the Excellency School "Scuola Superiore di Catania" (SSC)
 
 My undergraduate studies gave me a well-balanced education among theory, experiment and computer science.
 My scholarship at the SSC provided additional courses such as _numerical methods for science_, _Neuroinformatics and neural networks_, and _Statistical Physics_.
-
 
 ## Awards
 
