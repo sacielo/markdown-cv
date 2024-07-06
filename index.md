@@ -96,7 +96,7 @@ I was granted large allocation on Supercomputers and learnt to set up large (sev
 
 __Max Planck Institute for Astronomy, Heidelberg, Germany__
 `2011 : 2015` 
-- Ph.D. Student within the "International Max Planck Research School"
+- **Magna cum laude** Doctorate in Physics within the "International Max Planck Research School"
 
 I used a broad range of numerical simulations to help constrain the role of Active Galactic Nuclei on the star formation rates in observed galaxies. I also learned about the role of numerical models in the scientific method, and largely improved my parallel programming skills.
 
@@ -116,26 +116,20 @@ President, *Royal Society*, London, UK
 
 Associate, *French Academy of Science*, Paris, France
 
-## Selected Publications
+## Publications
 
-> Please check [My ORCID](https://orcid.org/my-orcid?orcid=0000-0002-2019-8187)  and 
-> [My NASA/ADS](https://ui.adsabs.harvard.edu/search/q=author%3A%22Cielo%2C%20Salvatore%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
-> for a more comprehensive list
+> A reasoned selection is given for brevity. Please check my [ORCID](https://orcid.org/my-orcid?orcid=0000-0002-2019-8187)  and my [NASA/ADS](https://ui.adsabs.harvard.edu/search/q=author%3A%22Cielo%2C%20Salvatore%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
+> records for a more comprehensive list.
 
-### Conference Proceedings
+### Conferences
 
 ### Journals
-
 `1669`
 Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
 `1669`
 Lectiones opticæ.
 
-etc. etc. etc.
-
-### Unpublished dissertations
-
+### Other
 `2012`
 Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
