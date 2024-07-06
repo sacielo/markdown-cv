@@ -69,20 +69,18 @@ Tel +49 (0)89 35831 7880
 - Award-winning scientific visualizations
 - Fundamental Physics, Extragalactic Astrophysics and Black Holes
 
-## Professional life and Education 
+## Career
 > "Be patient, for the world is broad and wide."
 > -- _E. A. Abbott_
 
 ### HPC Expert
-__Lebiniz Supercomputing Centre__
-
-`2021 : Today`
+`2021 : Today` __Lebiniz Supercomputing Centre__
 - [AstroLab](https://doku.lrz.de/astrolab-10746577.html) Team Leader
   
 In addition to application support, I coordinated the activities of the AstroLab and proactively proposed activities and projects for junior lab members, especially on heterogeneous/GPU computing.
 
 `2018 : Today`
-
+__Lebiniz Supercomputing Centre__
 - Part of _Computational X Support_ Team
 - Member of AstroLab, application support for Astrophysics
   
@@ -90,8 +88,8 @@ Application support activities introduced me to a vast user base, and to product
 The [high-level support](https://doku.lrz.de/high-level-support-projects-10747323.html) activivities in the _Gauss Center from Supercomputing_ often resulted in large collaborations, well-received HPC publications and conference submissions, and the provisioning of novel services to LRZ users.
 
 ### Researcher
-__Institut d'Astrophisique de Paris, Paris, France__
 `2015 : 2018`
+__Institut d'Astrophisique de Paris, Paris, France__
 - Postoctoral Researcher  "BLACK Fellowship"
 
 I was granted large allocation on Supercomputers and learnt to set up large (several thousands of cores) numerical models, in order to investigate the roles of Active Galactic Nuclei (AGN) on keeping Galaxies and Galaxy Clusters stable. 
