@@ -52,12 +52,12 @@ Tel +49 (0)89 35831 7880
   
 ### Soft skills
 `Technical`
-- Reviewer of papers and proposal for HPC and Astrophysics
-- Scientific communication, teaching and public speaking
+- Reviewer of papers and proposal for HPC and Astrophysics fields
+- Scientific writing, teaching and public speaking
 
 
 `Management`  
-- Team leading and project management
+- Team leading, project ideation and management
 - Involvement in multiple procurements of hardware and services
 - Community building including team mates, colleagues across groups, user base and vendors
 
@@ -116,20 +116,27 @@ My undergraduate studies gave me a scientific education well-balanced among theo
 `202x` Cover of Inside
 `2019` SC19 finalist
 
-## Organizational Activities
+## Projects and Activities
 
-### Projects Organization 
+###  
 `2024` SoC exascale at Julich
 `202` Co-I for James
 `202` Co-I for DPecho project
 `2021-Today`  Punch-4-NFDI
 
+### Software development
+`2024-Today` GPU Computing with Julia
+`2022-Today` DPEcho
+`2020-Today` Python on Intel hardware
+`2021-Today` OSPray Studio 
+`2019-Today` VisIt
+
 ### Teaching 
 `2022`
-Visit & co.
+VisIt & co.
 
 `2020`
-Course at erlangen
+Course at Erlangen
 
 `2013 : 2014`
 Advanced prakticum
