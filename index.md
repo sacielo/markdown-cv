@@ -106,15 +106,23 @@ __Universita' di Catania, Catania, Italy__
 - B.Sc. and M.Sc. student in Physics, oriented to Astrophysics and and Space Physics
 - Pupil at the Excellency School "Scuola Superiore di Catania" (SSC)
 
-My undergraduate studies gave me a well-balanced education among theory, experiment and computer science.
-My scholarship at the SSC provided additional courses such as _numerical methods for science_, _Neuroinformatics and neural networks_, and _Statistical Physics_.
+My undergraduate studies gave me a scientific education well-balanced among theory, experiment and computer science.
+My SSC scholarship provided additional courses such as _numerical methods for science_, _Neuroinformatics and neural networks_, and _Statistical Physics_ and allowed the discussion an additional dissertation.
 
 ## Awards
+`2024` Press coverage for 10^4
+`2024` Article by Susanne on DPEcho
+`2021-` SC21 finalist
+`202X` - Press coverage for Sciviz
+`202x` Cover of Inside
+`2019` SC19 finalist
 
-`2021-`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+## Organizational activities
+`2024` SoC exascale at Julich
+`202` Co-I for James
+`202` Co-I for DPecho project
+`2021-Today`  PUnch-4-NFDI
+`` 
 
 ## Publications
 
@@ -122,28 +130,31 @@ Associate, *French Academy of Science*, Paris, France
 > records for a more comprehensive list.
 
 ### Conferences
+`2024` PASC24
+`2024` HiPEAC
+`2023` SYCLcon23 
+`2021` SC21
+`2019` SC19
 
 ### Journals
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-`1669`
-Lectiones opticæ.
+BHAC
 
 ### Other
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
+`2024` James's 10^4
+`2022` PUM - DPecho
+`2022` PUM - python
+`2015` PhD Thesis
 
 ## Teaching 
 
-`1600`
-__Royal Mint__, London
+`2022`
+Visit & co.
 
-- Warden
-- Minted coins
+`2020`
+Course at erlangen
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2013 : 2014`
+Advanced prakticum
 
 
 
