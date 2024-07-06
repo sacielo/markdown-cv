@@ -14,13 +14,13 @@ Dr. Rer. Nat., Astrophysicist, HPC Expert
 > "Kennst du das Land, wo die Zitronen blühn [...]?"
 > -- _J.W. Goethe_
 
-`Date of birth`
+### Date of birth
 1986-08-27
 
-`Place of birth`
+### Place of birth
 Palermo, Italy
 
-`Citizenship`
+### Citizenship
 Italian
 
 ## Contact 
@@ -48,20 +48,24 @@ Tel +49 (0)89 35831 7880
 > be represented by any simulation smaller than itself."
 > -- _I. Asimov_
 
-`Key abilities`
+### Key abilities
+`HPC`
 - Years-long expertise on _High-Performance Computing_ (HPC) with focus on Application Support
 - Deep knowlegde of etherogeneous HPC hardware through cross-architeture performance tuning of multiple code basis and across several programming languages
 - Creation and maintenance of software stack for HPC systems
 - Cross-architecture GPU programming
   
-`Soft skills`
-- Team leading and project management
-- Scientific communication, teaching and public speaking
-- Involvement in multiple procurements of hardware and services
+### Soft skills
+`Technical`
 - Reviewer of papers and proposal for HPC and Astrophysics
-- Community building including team mates, colleagues from other groups, user base and vendors
+- Scientific communication, teaching and public speaking
+`Management`  
+- Team leading and project management
+- Involvement in multiple procurements of hardware and services
+- Community building including team mates, colleagues across groups, user base and vendors
 
-`Research interests`
+### Research interests
+`Scientific Application`
 - Functionality, performance and portability of scientific applications
 - Award-winning scientific visualizations
 - Fundamental Physics, Extragalactic Astrophysics and Black Holes
@@ -70,14 +74,13 @@ Tel +49 (0)89 35831 7880
 > "Some day you will be old enough to start reading fairy tales again."
 > --_C. S. Lewis_
 
+### Lebiniz Supercomputing Centre
 `2021 : Today`
-__Lebiniz Supercomputing Centre__
 - [AstroLab](https://doku.lrz.de/astrolab-10746577.html) Team Leader
   
 In addition to application support, I coordinated the activities of the AstroLab and proactively proposed activities and projects for junior lab members, especially on heterogeneous/GPU computing.
 
 `2018 : Today`
-__Lebiniz Supercomputing Centre, Münich, Germany__
 - Part of _Computational X Support_ Team
 - Member of AstroLab, application support for Astrophycs
   
