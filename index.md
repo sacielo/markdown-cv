@@ -9,37 +9,38 @@ Dr. Rer. Nat., Astrophysicist, HPC Expert
 >   It is not always an easy sacrifice."
 > -- _Richard Bach_
 
-## Personal
-
+## General
 > "Kennst du das Land, wo die Zitronen blühn [...]?"
 > -- _J.W. Goethe_
 
-### Date of birth
+### Personal Information
+`Date of birth`
 1986-08-27
-### Place of birth
+
+`Place of birth`
 Palermo, Italy
-### Citizenship
+
+`Citizenship`
 Italian
 
-## Contact 
+### Contact 
 > "Be patient, for the world is broad and wide."
 > -- _E. A. Abbott_
 
-### Affiliation
+`Affiliation`
 [Leibniz Supercomputing Centre](https://www.lrz.de/)(LRZ) of the Bavarian Academy of Science and Humanities
 
-### Address
+`Address`
 Boltzmannstr. 1, D-85748 Garching bei München
 
-### Phone
+`Phone`
 Tel +49 (0)89 35831 7880
 
-### Online
 `email`
 <a href="mailto:cielo@lrz.de">cielo@lrz.de</a>
 
-`CV online`
-<a href="https://sacielo.github.io/markdown-cv/"> sacielo.github.io/markdown-cv  </a>
+`Online CV`
+<a href="https://sacielo.github.io/markdown-cv/"> sacielo.github.io/markdown-cv </a>
 
 ## Primary Skills
 > "[...] the Universe as a whole, in its full complexity, cannot
