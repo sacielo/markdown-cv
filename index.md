@@ -16,10 +16,8 @@ Dr. Rer. Nat., Astrophysicist, HPC Expert
 
 ### Date of birth
 1986-08-27
-
 ### Place of birth
 Palermo, Italy
-
 ### Citizenship
 Italian
 
@@ -84,16 +82,17 @@ In addition to application support, I coordinated the activities of the AstroLab
 - Part of _Computational X Support_ Team
 - Member of AstroLab, application support for Astrophycs
   
-Application support activities introduced to a vast user base, as well as to products and solutions from vendors, while gaining experience in profiling tools and code modernization efforts.
-The [high-level support](https://doku.lrz.de/high-level-support-projects-10747323.html) activivities in the _Gauss Center from Supercomputig_ often resulted in well-received HPC publications and conference submissions in large collaborations, and ultimately to the provision of new services to LRZ users.
-  
-`2015 : 2018` __Institut d'Astrophisique de Paris, Paris, France__
+Application support activities introduced me to a vast user base, and to products and solutions from HPC vendors, while provided me with experience in profiling tools and code modernization efforts.
+The [high-level support](https://doku.lrz.de/high-level-support-projects-10747323.html) activivities in the _Gauss Center from Supercomputing_ often resulted in large collaborations, well-received HPC publications and conference submissions, and the provisioning of novel services to LRZ users.
+
+### Institut d'Astrophisique de Paris, Paris, France
+`2015 : 2018`
 - Postoctoral Researcher  "BLACK Fellowship"
 
-I investigated the roles of Active Galactic Nuclei (AGN) on keeping Galaxies and Galaxy Clusters stable. I was granted large allocation on 
-Supercomputers and set up large (several thousands of cores) numerical models. 
+I was granted large allocation on Supercomputers and learnedt to set up large (several thousands of cores) numerical models, in order to investigate the roles of Active Galactic Nuclei (AGN) on keeping Galaxies and Galaxy Clusters stable. 
 
-`2011 : 2015` __Max Planck Institute for Astronomy, Heidelberg, Germany__
+### Max Planck Institute for Astronomy, Heidelberg, Germany
+`2011 : 2015` 
 - Ph.D. Student within the "International Max Planck Research School"
 
 I used a broad range of numerical simulations to help constrain the role of Active Galactic Nuclei on the star formation rates in observed galaxies. 
