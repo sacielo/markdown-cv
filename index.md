@@ -10,14 +10,26 @@ Dr. Rer. Nat., Astrophysicist, HPC Expert
 > 
 >   -- <cite>_Richard Bach_</cite>
 
-## Contact
-- Leibniz Supercomputing Centre (LRZ) of the Bavarian Academy of Science and Humanities, Boltzmannstr. 1, D-85748 Garching bei München
-- Tel +49 (0)89 35831 7824
-- <div id="webaddress">
+## Contact 
+
+
+`Affiliation`
+
+Leibniz Supercomputing Centre (LRZ) of the Bavarian Academy of Science and Humanities
+
+`Address`
+
+Boltzmannstr. 1, D-85748 Garching bei München
+
+`Phone`
+
+Tel +49 (0)89 35831 7880
+
+`Online`
+<div id="webaddress">
 <a href="cielo@lrz.de">cielo@lrz.de</a>
 | <a href="https://sacielo.github.io/markdown-cv/">My online CV</a>
 </div>
-
 
 ## Currently / Derzeit
 
