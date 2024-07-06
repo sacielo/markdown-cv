@@ -5,17 +5,19 @@ title: Salvatore Cielo's CV
 # Salvatore Cielo, Ph.D.
 Dr. Rer. Nat., Astrophysicist, HPC Expert
 
-<div id="webaddress">
-<a href="cielo@lrz.de">cielo@lrz.de</a>
-| <a href="https://sacielo.github.io/markdown-cv/">My online CV</a>
-</div>
-
 
 >  "In order to live free and happily
 >   you must sacrifice boredom. 
 >   It is not always an easy sacrifice."
 > 
 >   -- <cite>_Richard Bach_</cite>
+
+## Contact
+<div id="webaddress">
+<a href="cielo@lrz.de">cielo@lrz.de</a>
+| <a href="https://sacielo.github.io/markdown-cv/">My online CV</a>
+</div>
+
 
 ## Currently / Derzeit
 
