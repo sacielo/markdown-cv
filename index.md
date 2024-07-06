@@ -13,7 +13,7 @@ Dr. Rer. Nat., Astrophysicist, HPC Expert
 ## Contact 
 
 
-`Affiliation`
+### Affiliation
 
 Leibniz Supercomputing Centre (LRZ) of the Bavarian Academy of Science and Humanities
 
@@ -33,7 +33,19 @@ Tel +49 (0)89 35831 7880
 </div>
 
 ## Primary Skills
+### Primary Skills
+- Years-long expertise on _High-Performance Computing_ (HPC) with focus on Application Support
+- Deep knowlegde of etherogeneous HPC hardware through cross-architeture performance tuning of multiple code basis
+- Creation and maintenance of software stack for 
+- Team leading and project management
+### Research interest
+- Functionality, performance and portability of Scientific application
+- Award-winning scientific visualization
+- Fundamental Physics, Extragalactic Astrophysics
 
+Specialist in HPC applications (quantum computing and astrophysics)
+Scientific communication, teaching and public speaking
+Opportunity identification for procurement of hardware and services
 - Part of _Computational X Support_ Team at [Leibniz-Rechenzentrum](https://www.lrz.de/)
 - AstroLab 
 
