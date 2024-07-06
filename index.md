@@ -77,7 +77,7 @@ Tel +49 (0)89 35831 7880
 `2021 : Today` __Lebiniz Supercomputing Centre__
 - [AstroLab](https://doku.lrz.de/astrolab-10746577.html) Team Leader
   
-In addition to application support, I coordinated the activities of the AstroLab and proactively proposed activities and projects for junior lab members, especially on heterogeneous/GPU computing.
+In addition to application support, I coordinated the activities of the AstroLab and proactively proposed activities and projects for junior lab members, especially on heterogeneous/GPU computing, leveraging and promoting individual skills and wishes.
 
 `2018 : Today`
 __Lebiniz Supercomputing Centre__
