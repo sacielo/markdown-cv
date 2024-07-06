@@ -14,38 +14,39 @@ Dr. Rer. Nat., Astrophysicist, HPC Expert
 
 
 ### Affiliation
-
 Leibniz Supercomputing Centre (LRZ) of the Bavarian Academy of Science and Humanities
 
 ### Address
-
 Boltzmannstr. 1, D-85748 Garching bei München
 
 ### Phone
-
 Tel +49 (0)89 35831 7880
 
 ### Online
-
 <div id="webaddress">
 <a href="cielo@lrz.de">cielo@lrz.de</a>
 | <a href="https://sacielo.github.io/markdown-cv/">My online CV</a>
 </div>
 
 ## Primary Skills
-### Primary Skills
+### Key abilities
 - Years-long expertise on _High-Performance Computing_ (HPC) with focus on Application Support
 - Deep knowlegde of etherogeneous HPC hardware through cross-architeture performance tuning of multiple code basis
-- Creation and maintenance of software stack for 
+- Creation and maintenance of software stack for HPC systems
+
+### Soft skills
 - Team leading and project management
-### Research interest
-- Functionality, performance and portability of Scientific application
-- Award-winning scientific visualization
+- Scientific communication, teaching and public speaking
+- Opportunity identification for procurement of hardware and services
+
+### Research interests
+- Functionality, performance and portability of scientific applications
+- Cross-architecture GPU programming
+- Award-winning scientific visualizations
 - Fundamental Physics, Extragalactic Astrophysics
 
-Specialist in HPC applications (quantum computing and astrophysics)
-Scientific communication, teaching and public speaking
-Opportunity identification for procurement of hardware and services
+
+
 - Part of _Computational X Support_ Team at [Leibniz-Rechenzentrum](https://www.lrz.de/)
 - AstroLab 
 
