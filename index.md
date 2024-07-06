@@ -12,7 +12,6 @@ Dr. Rer. Nat., Astrophysicist, HPC Expert
 ## General
 > "Kennst du das Land, wo die Zitronen blühn [...]?"
 > -- _J.W. Goethe_
-
 ### Personal
 `Date of birth`
 1986-08-27
@@ -22,7 +21,6 @@ Palermo, Italy
 
 `Citizenship`
 Italian
-
 ### Contact 
 
 `Affiliation`
@@ -77,12 +75,14 @@ Tel +49 (0)89 35831 7880
 
 ### HPC Expert
 __Lebiniz Supercomputing Centre__
+
 `2021 : Today`
 - [AstroLab](https://doku.lrz.de/astrolab-10746577.html) Team Leader
   
 In addition to application support, I coordinated the activities of the AstroLab and proactively proposed activities and projects for junior lab members, especially on heterogeneous/GPU computing.
 
 `2018 : Today`
+
 - Part of _Computational X Support_ Team
 - Member of AstroLab, application support for Astrophysics
   
