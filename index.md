@@ -38,7 +38,7 @@ Tel +49 (0)89 35831 7880
 `Online CV`
 <a href="https://sacielo.github.io/markdown-cv/"> sacielo.github.io/markdown-cv </a>
 
-## Primary Skills
+## Skills and Experience
 > "[...] the Universe as a whole, in its full complexity, cannot
 > be represented by any simulation smaller than itself."
 > -- _I. Asimov_
@@ -147,7 +147,7 @@ Advanced prakticum
 
 ## Publications
 
-> A reasoned selection is given for brevity. Please check my [ORCID](https://orcid.org/my-orcid?orcid=0000-0002-2019-8187)  and my [NASA/ADS](https://ui.adsabs.harvard.edu/search/q=author%3A%22Cielo%2C%20Salvatore%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
+> A reasoned selection is given for brevity. Please check my [ORCID](https://orcid.org/0000-0002-2019-8187/)  and my [NASA/ADS](https://ui.adsabs.harvard.edu/search/q=author%3A%22Cielo%2C%20Salvatore%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
 > records for a more comprehensive list.
 
 ### Journals
