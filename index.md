@@ -8,12 +8,12 @@ Dr. Rer. Nat., Astrophysicist, HPC Expert
 >   you must sacrifice boredom. 
 >   It is not always an easy sacrifice."
 > 
->   -- <cite>_Richard Bach_</cite>
+> -- _Richard Bach_
 
 ## Personal
 > Kennst du das Land, wo die Zitronen blühn [...]?
 > 
-> -- J.W. Goethe
+> -- _J.W. Goethe_
 
 ### Date of birth 
 1986-08-27
@@ -26,7 +26,7 @@ Italian
 
 ## Contact 
 > "Be patient, for the world is broad and wide."
->   --_E. A. Abbott_
+>  -- _E. A. Abbott_
 
 ### Affiliation
 Leibniz Supercomputing Centre (LRZ) of the Bavarian Academy of Science and Humanities
@@ -44,7 +44,7 @@ Tel +49 (0)89 35831 7880
 </div>
 
 ## Primary Skills
-### Key abilities
+`Key abilities`
 - Years-long expertise on _High-Performance Computing_ (HPC) with focus on Application Support
 - Deep knowlegde of etherogeneous HPC hardware through cross-architeture performance tuning of multiple code basis and across several programming languages
 - Creation and maintenance of software stack for HPC systems
