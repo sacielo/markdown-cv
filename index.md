@@ -17,21 +17,22 @@ Dr. Rer. Nat., Astrophysicist, HPC Expert
 
 Leibniz Supercomputing Centre (LRZ) of the Bavarian Academy of Science and Humanities
 
-`Address`
+### Address
 
 Boltzmannstr. 1, D-85748 Garching bei München
 
-`Phone`
+### Phone
 
 Tel +49 (0)89 35831 7880
 
-`Online`
+### Online
+
 <div id="webaddress">
 <a href="cielo@lrz.de">cielo@lrz.de</a>
 | <a href="https://sacielo.github.io/markdown-cv/">My online CV</a>
 </div>
 
-## Currently / Derzeit
+## Primary Skills
 
 - Part of _Computational X Support_ Team at [Leibniz-Rechenzentrum](https://www.lrz.de/)
 - AstroLab 
