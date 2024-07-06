@@ -67,7 +67,7 @@ Tel +49 (0)89 35831 7880
 `Applications`
 - Functionality, performance and portability of scientific applications
 - Award-winning scientific visualizations
-- Fundamental Physics, Extragalactic Astrophysics and Black Holes
+- Fundamental Physics, Extragalactic Astrophysics and Black Holes, especially numerical modeling
 
 ## Career
 > "Be patient, for the world is broad and wide."
@@ -106,7 +106,7 @@ __Universita' di Catania, Catania, Italy__
 - B.Sc. and M.Sc. student in Physics, oriented to Astrophysics and and Space Physics
 - Pupil at the Excellency School "Scuola Superiore di Catania" (SSC)
 
-My undergraduate studies gave me a scientific education well-balanced among theorethical and experimental Physics, astronomical observations and computer science. In parallel, my SSC scholarship provided complementary and advanced courses such as _numerical methods for science_, _Neuroinformatics and neural networks_, and _Statistical Physics_ and allowed the discussion an additional dissertation.
+My undergraduate studies gave me a scientific education well-balanced among theorethical and experimental Physics, astronomical observations and computer science. In parallel, my SSC scholarship provided complementary and advanced courses such as _numerical methods for science_, _Neuroinformatics and neural networks_, _Game Theory_ and _Statistical Physics_ and allowed the discussion an additional dissertation.
 
 ## Awards
 `2024` Press coverage for 10^4
