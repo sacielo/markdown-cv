@@ -67,10 +67,10 @@ Boltzmannstr. 1, D-85748 Garching bei München
 `Native` 
 - Italian
 
-`Fluent`
+`Good`
 - English
 
-`Fluent`
+`Good`
 - German
 
 `Intermediate`
@@ -122,22 +122,42 @@ My undergraduate studies gave me a scientific education well-balanced among theo
 
 ### Awards
 `2024` 
-Press coverage for 10^4
+[Stunning image reveals the intricate structure of supersonic plasma](https://www.msn.com/en-gb/news/techandscience/stunning-image-reveals-the-intricate-structure-of-supersonic-plasma/ar-BB1noXUd)
+
+News coverage on co-authored project.
 
 `2024`
-Article by Susanne on DPEcho
+[Showcasing Innovative Programs and Codes at HiPEAC 2024 ](https://www.gauss-centre.eu/news/publications/inside)
+
+Article on InSiDE HPC magazine.
 
 `2021`
-SC21 finalist
+[Visualization of Human-Scale Blood Flow Simulation Using Intel® OSPRay Studio on SuperMUC-NG
+](https://sc21.supercomputing.org/proceedings/sci_viz/sci_viz_pages/svs102.html)
 
-`202X` 
-Press coverage for Sciviz
+SC21 international HPC conference: Finalist at Scientific Visualization & Data Analytics Showcase Archives
 
-`202x`
-Cover of Inside
+`2019-2020` 
+[Researchers Visualize the Largest Turbulence Simulation Ever
+](https://www.hpcwire.com/2019/10/30/researchers-visualize-the-largest-turbulence-simulation-ever/)
+
+HPC Wire coverage of own project
 
 `2019`
-SC19 finalist
+[InSiDE Autumn 2019](https://www.gauss-centre.eu/news/publications/inside/inside-autumn-2019)
+
+Own scientific visualization chosen as cover image for Autumn 2019 issue
+
+
+`2019`
+[Visualizing the World’s Largest Turbulence Simulation](https://sc19.supercomputing.org/proceedings/sci_viz/sci_viz_pages/svs103.html)
+
+SC19 international HPC conference: Finalist at Scientific Visualization & Data Analytics Showcase Archives
+
+`2016`
+**_Balzan Fellowship - Traveling research grant, spent in Johns Hopkins University, USA_**
+Development of numerical models for radio-loud and radio-quiet
+quasars; estimate of turbulence from observations of interstellar gas
 
 ### Committees and Proposals 
 `2024` **SoC exascale at Julich**
