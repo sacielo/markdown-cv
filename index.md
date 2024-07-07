@@ -222,9 +222,11 @@ Poster in IWOCL/SYCLcon 2023
 [Visualizing simulations of turbulence and beyond](https://indico.ph.tum.de/event/7199/) <br>
 **Invited showcase talk** to technical workshop
 
-`2021` SC21
+`2021`
+[Visualization of Human-scale Blood Flow Simulation
+using Intel® OSPRay Studio on SuperMUC-NG](https://sc21.supercomputing.org/proceedings/sci_viz/sci_viz_files/svs102s2-file1.pdf) <br> SC21 International HPC Conference - Companion paper to the scientific visualization submission
 
-`2019` SC19
+`2019` [Visualizing the world’s largest turbulence simulation](https://sc19.supercomputing.org/proceedings/sci_viz/sci_viz_files/svs103s2-file1.pdf) <br> SC21 International HPC Conference - Companion paper to the scientific visualization submission
 
 `2019`
 - [Optimizing Astrophysical Simulation and Data Analysis Codes on Intel Architectures](https://ixpug.org/resources/optimizing-astrophysical-simulation-and-data-analysis-codes-on-intel-architectures)
@@ -234,7 +236,7 @@ Talks at the [Intel eXtreme Performance User Group - IXPUG 2019](https://www.ixp
 
 ### Other
 `2024` [Magnetized compressible turbulence with a fluctuation dynamo and Reynolds numbers over a million](https://ui.adsabs.harvard.edu/abs/2024arXiv240516626B/abstract) <br>
-Ph.D. Dissertation with bilingual (EN/DE) abstract
+In prep.
 
 `2023` [DPEcho: General Relativity with SYCL* for the 2020s and beyond](https://www.intel.com/content/www/us/en/developer/articles/technical/dpecho-general-relativity-sycl-for-2020-beyond.html) <br>
 Online article, also appeared on _The Parallel Universe Magazine_, Issue 51
