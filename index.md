@@ -116,8 +116,6 @@ __Universita' di Catania, Catania, Italy__
 
 My undergraduate studies gave me a scientific education well-balanced among theorethical and experimental Physics, astronomical observations and computer science. In parallel, my SSC scholarship provided complementary and advanced courses such as _numerical methods for science_, _Neuroinformatics and neural networks_, _Game Theory_ and _Statistical Physics_ and allowed the discussion an additional dissertation.
 
-
-
 ## Projects and Activities
 >  _"In order to live free and happily you must sacrifice boredom. It is not always an easy sacrifice." - R. Bach_
 
@@ -157,6 +155,7 @@ Advanced prakticum
 `2024` Ranjith
 
 ## Publications
+> _"Soon [...], robots [...] would take over the original writing, the searching of the sources, the checking and cross-checking of passages, perhaps even the deduction of conclusions. What would that leave the scholar?" - I. Asimov_
 
 > A reasoned selection is given for brevity. Please check my [ORCID](https://orcid.org/0000-0002-2019-8187/)  and my [NASA/ADS](https://ui.adsabs.harvard.edu/search/q=author%3A%22Cielo%2C%20Salvatore%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
 > records for a more comprehensive list.
