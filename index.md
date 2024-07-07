@@ -170,7 +170,7 @@ In synergy with DPEcho, I became increasingly involved the LRZ efforts in provid
 `2022-Today`
 - [DPEcho](https://github.com/LRZ-BADW/DPEcho)<br>
 Through this code development project, cerried on with Intel support,
-I became **proficient in heterogenous computing** with SYCL. Born as SYCL porting of the GR-MHD ECHO code, its focus shifted to its **excellent benchmarking capabilities**, including CPU and GPU **energy-to-solution **measurement, on both HPC-grade and consumer-grade hardware.
+I became **proficient in heterogenous computing** with SYCL. Born as SYCL porting of the GR-MHD ECHO code, its focus shifted to its **excellent benchmarking capabilities**, including CPU and GPU **energy-to-solution** measurements, on both HPC-grade and consumer-grade hardware.
 
 `2020-Today`
 - Python on Intel hardware
