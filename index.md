@@ -179,20 +179,28 @@ VisIt
 
 ### Teaching 
 `2022`
-VisIt & co.
+[VisIt and OSPRay Studio for Scientific Visualisation](https://doku.lrz.de/visit-and-ospray-studio-for-scientific-visualisation-10333506.html) <br>
+In-presence course given
 
 `2020`
-Course at Erlangen
+_Performance analysis tools: Intel VTune Amplifier and Advisor_
+Parallel Programming of High Performance Systems @ RRZE <br>
+Course material available online and on demand <br>
+*(actual lecture at Regionales Rechenzentrum Erlangen canceled due to Covid-19 outbreak)
 
-`2013-2014`
-Advanced prakticum
+`2012-2013`
+_Advanced Lab #30: CCD Photometry in modern astronomy_ <br>
+Class and experiment, including liquid nitrogen handling
+and independent access to telescope facilities
 
 ### Mentorship
 
-`2024` Ranjith
+`2024-Today` 
+_Accelerating HPC Python Workloads_ <br>
+Mentoring of an intern at Leibniz Supercomputing Center (3+3 months)
 
 ## Publications
-> _"Soon [...], robots [...] would take over the original writing, the searching of the sources, the checking and cross-checking of passages, perhaps even the deduction of conclusions. What would that leave the scholar?" - I. Asimov_
+> _"Soon [...], robots [...] would take over the original writing, the searching of the sources, the checking and cross-checking of passages, perhaps even the deduction of conclusions. What would that leave the scholar?" <br> - I. Asimov_
 
 > A reasoned selection is given for brevity. Please check my [ORCID](https://orcid.org/0000-0002-2019-8187/)  and my [NASA/ADS](https://ui.adsabs.harvard.edu/search/q=author%3A%22Cielo%2C%20Salvatore%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
 > records for a more comprehensive list.
