@@ -86,15 +86,15 @@ Spanish
 `2021-Today` __Lebiniz Supercomputing Centre__
 - [AstroLab](https://doku.lrz.de/astrolab-10746577.html) Team Leader
   
-In addition to application support, I **coordinated the activities of the AstroLab** and proactively proposed activities and **projects for junior lab members**, especially in the emerging field of heterogeneous/GPU computing, promoting individual skills and professional growth.
+In addition to application support, I **coordinate the activities of the AstroLab** and proactively propose activities and **projects for junior lab members**, especially in the emerging field of heterogeneous/GPU computing, promoting individual skills and professional growth.
 
 `2018-Today`
 __Lebiniz Supercomputing Centre__
 - Part of _Computational X Support_ Team
 - Member of AstroLab, application support for Astrophysics
   
-Application support activities introduced me to a **vast base of science users**, and to products and solutions from **several HPC vendors**, while providing me with deep knowledge of **profiling tools** and **code modernization** techniques.
-The [research](https://doku.lrz.de/research-and-development-projects-10747346.html) and [high-level support](https://doku.lrz.de/high-level-support-projects-10747323.html) activivities in the _Gauss Center from Supercomputing_ often resulted in large collaborations, well-received HPC publications and conference submissions, and the provisioning of novel services to LRZ users.
+Application support activities introduce me to a **vast base of science users**, and to products and solutions from **several HPC vendors**, while providing me with deep knowledge of **profiling tools** and **code modernization** techniques.
+The [research](https://doku.lrz.de/research-and-development-projects-10747346.html) and [high-level support](https://doku.lrz.de/high-level-support-projects-10747323.html) activivities in the _Gauss Center from Supercomputing_ often result in large collaborations, well-received HPC publications and conference submissions, and the provisioning of novel services to LRZ users.
 
 ### Researcher
 `2015-2018`
