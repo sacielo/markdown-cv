@@ -4,10 +4,6 @@ title: Salvatore Cielo's CV
 ---
 # Salvatore Cielo, Ph.D.
 Dr. Rer. Nat., Astrophysicist, HPC Expert
->  "In order to live free and happily
->   you must sacrifice boredom. 
->   It is not always an easy sacrifice."
-> -- _Richard Bach_
 
 ## General
 > "Kennst du das Land, wo die Zitronen blühn [...]?"
@@ -108,6 +104,14 @@ __Universita' di Catania, Catania, Italy__
 
 My undergraduate studies gave me a scientific education well-balanced among theorethical and experimental Physics, astronomical observations and computer science. In parallel, my SSC scholarship provided complementary and advanced courses such as _numerical methods for science_, _Neuroinformatics and neural networks_, _Game Theory_ and _Statistical Physics_ and allowed the discussion an additional dissertation.
 
+
+
+## Projects and Activities
+>  "In order to live free and happily
+>   you must sacrifice boredom. 
+>   It is not always an easy sacrifice."
+> -- _Richard Bach_
+
 ## Awards
 `2024` Press coverage for 10^4
 `2024` Article by Susanne on DPEcho
@@ -116,9 +120,7 @@ My undergraduate studies gave me a scientific education well-balanced among theo
 `202x` Cover of Inside
 `2019` SC19 finalist
 
-## Projects and Activities
-
-###  
+### Committees and Proposals 
 `2024` SoC exascale at Julich
 `202` Co-I for James
 `202` Co-I for DPecho project
