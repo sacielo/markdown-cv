@@ -101,7 +101,7 @@ The [research](https://doku.lrz.de/research-and-development-projects-10747346.ht
 __Institut d'Astrophisique de Paris, Paris, France__
 - Postdoctoral Researcher  "BLACK Fellow"
 
-I was granted **large allocation on national Supercomputers** and learned to set up large (several thousands of cores) numerical models, in order to investigate the roles of _Active Galactic Nuclei_ (AGN) on the stability of Galaxies and Galaxy Clusters. 
+I was granted **large allocations on national Supercomputers** and learned to set up large (several thousands of cores) numerical models, in order to investigate the roles of _Active Galactic Nuclei_ (AGN) on the stability of Galaxies and Galaxy Clusters. 
 
 ### Student
 
