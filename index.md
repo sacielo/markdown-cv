@@ -86,7 +86,7 @@ Boltzmannstr. 1, D-85748 Garching bei München
 `2021-Today` __Lebiniz Supercomputing Centre__
 - [AstroLab](https://doku.lrz.de/astrolab-10746577.html) Team Leader
   
-In addition to application support, I coordinated the activities of the AstroLab and proactively proposed activities and projects for junior lab members, especially on heterogeneous/GPU computing, leveraging and promoting individual skills and wishes.
+In addition to application support, I **coordinated the activities of the AstroLab** and proactively proposed activities and **projects for junior lab members**, especially in the emerging field of heterogeneous/GPU computing, promoting individual skills and professional growth.
 
 `2018-Today`
 __Lebiniz Supercomputing Centre__
@@ -153,9 +153,15 @@ SC19 finalist
 
 `2022-Today`
 DPEcho
-`2020-Today` Python on Intel hardware
-`2021-Today` OSPray Studio 
-`2019-Today` VisIt
+
+`2020-Today`
+Python on Intel hardware
+
+`2021-Today` 
+OSPray Studio 
+
+`2019-Today`
+VisIt
 
 ### Teaching 
 `2022`
@@ -188,20 +194,25 @@ Advanced prakticum
 
 ### Conferences
 `2024` PASC24
+
 `2024` HiPEAC
+
 `2023` SYCLcon23 
+
 `2023` Workshop visiualization & turbulence
+
 `2021` SC21
+
 `2019` SC19
 
 ### Other
 `2024` James's 10^4
+
 `2022` PUM - DPecho
+
 `2022` PUM - python
+
 `2015` Ph.D. Dissertation with bilingual (EN/DE) abstract: [Numerical models of AGN jet feedback](https://ui.adsabs.harvard.edu/#abs/2015PhDT.......411C/abstract)
-
-
-
 
 
 <!-- ### Footer
