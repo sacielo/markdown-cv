@@ -59,7 +59,6 @@ Boltzmannstr. 1, D-85748 Garching bei München
 ### Research interests
 
 `Scientific` <br> `Applications`
-
 - Functionality, **performance and portability** of scientific applications
 - Award-winning scientific **visualizations**
 - Fundamental Physics, Extragalactic Astrophysics and Black Holes, especially numerical modeling
@@ -154,7 +153,7 @@ Board member of [Scientific Organizing Committee](https://indico3-jsc.fz-juelich
 
 `2023-2024` 
 [The World’s Largest Supersonic, Magnetohydrodynamic Turbulence Simulation](https://www.gauss-centre.eu/results/astrophysics/the-worlds-largest-supersonic-magnetohydrodynamic-turbulence-simulation) <br>
-Co-Investigator in[ Gauss Centre for Supercomputing](https://www.gauss-centre.eu/) research proposal
+Co-Investigator in [Gauss Centre for Supercomputing](https://www.gauss-centre.eu/) research proposal
 
 `2022-2024`
 [DataParallel ECHO: Heterogeneous Programming Applied to High-Energy Astrophysics](https://www.gauss-centre.eu/results/astrophysics/dataparallel-echo-heterogeneous-programming-applied-to-high-energy-astrophysics)  <br>
@@ -209,23 +208,19 @@ Advanced prakticum
 `2018` [Feedback from reorienting AGN jets. I. Jet-ICM coupling, cavity properties and global energetic](https://ui.adsabs.harvard.edu/abs/2018A%26A...617A..58C/abstract)
 
 ### Conferences
-`2024` [Application Perspective on SYCL, a Modern Programming Model for Performance and Portability ](https://pasc24.pasc-conference.org/program/)
-
+`2024` [Application Perspective on SYCL, a Modern Programming Model for Performance and Portability ](https://pasc24.pasc-conference.org/program/) <br>
 **Minisymposium talk** to PASC 2024 international HPC conference
 
 `2024` 
-[Accelerating Performance & Productivity for Heterogeneous Architectures using oneAPI](https://www.hipeac.net/2024/munich/#/program/)
-
+[Accelerating Performance & Productivity for Heterogeneous Architectures using oneAPI](https://www.hipeac.net/2024/munich/#/program/) <br>
 **Workshop talk** to HiPEAC 2024 international HPC conference
 
 `2023`
-[Portability and Scaling of the DPEcho GR-MHD SYCL code: What’s new for numerical Astrophysics in SYCL2020](https://dl.acm.org/doi/proceedings/10.1145/3585341)
-
+[Portability and Scaling of the DPEcho GR-MHD SYCL code: What’s new for numerical Astrophysics in SYCL2020](https://dl.acm.org/doi/proceedings/10.1145/3585341) <br>
 Poster in IWOCL/SYCLcon 2023
 
 `2023` 
-[Visualizing simulations of turbulence and beyond](https://indico.ph.tum.de/event/7199/)
-
+[Visualizing simulations of turbulence and beyond](https://indico.ph.tum.de/event/7199/) <br>
 **Invited showcase talk** to technical workshop
 
 `2021` SC21
@@ -233,21 +228,22 @@ Poster in IWOCL/SYCLcon 2023
 `2019` SC19
 
 `2019`
-[Intel eXtreme Performance User Group - IXPUG 2019](https://www.ixpug.org/events/ixpug-annualconf-2019) 
-
 - [Optimizing Astrophysical Simulation and Data Analysis Codes on Intel Architectures](https://ixpug.org/resources/optimizing-astrophysical-simulation-and-data-analysis-codes-on-intel-architectures)
 - [Site Update - Leibniz Supercomputing Centre
-](https://ixpug.org/resources/site-update-leibniz-supercomputing-centre)
+](https://ixpug.org/resources/site-update-leibniz-supercomputing-centre) <br>
+Talks at the [Intel eXtreme Performance User Group - IXPUG 2019](https://www.ixpug.org/events/ixpug-annualconf-2019)
 
 ### Other
-`2024` [Magnetized compressible turbulence with a fluctuation dynamo and Reynolds numbers over a million](https://ui.adsabs.harvard.edu/abs/2024arXiv240516626B/abstract)
+`2024` [Magnetized compressible turbulence with a fluctuation dynamo and Reynolds numbers over a million](https://ui.adsabs.harvard.edu/abs/2024arXiv240516626B/abstract) <br>
+Ph.D. Dissertation with bilingual (EN/DE) abstract
 
-`2022` PUM - DPecho
+`2023` [DPEcho: General Relativity with SYCL* for the 2020s and beyond](https://www.intel.com/content/www/us/en/developer/articles/technical/dpecho-general-relativity-sycl-for-2020-beyond.html) <br>
+Online article, also appeared on _The Parallel Universe Magazine_, Issue 51
 
-`2022` PUM - python
+`2022`  [Speeding Up Simulation Analysis with yt* and Intel® Distribution for Python](https://www.intel.com/content/www/us/en/developer/articles/news/parallel-universe-magazine/issue-38-october-2019.html)  <br>
+Article appeared on _The Parallel Universe Magazine_, Issue 38
 
-`2015` [Numerical models of AGN jet feedback](https://ui.adsabs.harvard.edu/#abs/2015PhDT.......411C/abstract)
-
+`2015` [Numerical models of AGN jet feedback](https://ui.adsabs.harvard.edu/#abs/2015PhDT.......411C/abstract) <br>
 Ph.D. Dissertation with bilingual (EN/DE) abstract
 
 <!-- ### Footer
