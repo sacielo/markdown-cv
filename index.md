@@ -32,7 +32,7 @@ Boltzmannstr. 1, D-85748 Garching bei München
 <a href="mailto:cielo@lrz.de">cielo@lrz.de</a>
 
 `Online CV`
-<a href="https://sacielo.github.io/markdown-cv/"> sacielo.github.io/markdown-cv </a>
+<a href="https://sacielo.github.io/markdown-cv/"> sacielo.github.io/markdown-cv </a> (recommended)
 
 ## Skills and Experience
 > _"[...] the Universe as a whole, in its full complexity, cannot be represented by any simulation smaller than itself." - I. Asimov_
@@ -57,7 +57,7 @@ Boltzmannstr. 1, D-85748 Garching bei München
 - Scientific writing, teaching and public speaking
 
 ### Research interests
-`Scientific Applications`
+`Scientific \\ Applications`
 - Functionality, **performance and portability** of scientific applications
 - Award-winning scientific **visualizations**
 - Fundamental Physics, Extragalactic Astrophysics and Black Holes, especially numerical modeling
