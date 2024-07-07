@@ -7,8 +7,8 @@ Dr. Rer. Nat., Astrophysicist, HPC Expert
 
 ## General
 > _"Kennst du das Land, wo die Zitronen blühn [...]?"_
-> 
 >                            -J.W. Goethe
+
 ### Personal
 `Birthdate`
 1986-08-27
