@@ -6,8 +6,7 @@ title: Salvatore Cielo's CV
 Dr. Rer. Nat., Astrophysicist, HPC Expert
 
 ## General
-> _"Kennst du das Land, wo die Zitronen blühn [...]?"_
->                            J.W. Goethe
+> _"Kennst du das Land, wo die Zitronen blühn [...]?"_ -J.W. Goethe
 
 ### Personal
 `Birthdate`
@@ -36,9 +35,7 @@ Boltzmannstr. 1, D-85748 Garching bei München
 <a href="https://sacielo.github.io/markdown-cv/"> sacielo.github.io/markdown-cv </a>
 
 ## Skills and Experience
-> _"[...] the Universe as a whole, in its full complexity, cannot be represented by any simulation smaller than itself."_
-> 
-> - I. Asimov
+> _"[...] the Universe as a whole, in its full complexity, cannot be represented by any simulation smaller than itself."_ - I. Asimov
 
 ### Key abilities
 `HPC`
@@ -67,8 +64,7 @@ Boltzmannstr. 1, D-85748 Garching bei München
 - Fundamental Physics, Extragalactic Astrophysics and Black Holes, especially numerical modeling
 
 ## Career
-> _"Be patient, for the world is broad and wide."_
-> -E. A. Abbott
+> _"Be patient, for the world is broad and wide."_ - E. A. Abbott
 
 ### HPC Expert
 `2021 : Today` __Lebiniz Supercomputing Centre__
@@ -108,10 +104,7 @@ My undergraduate studies gave me a scientific education well-balanced among theo
 
 
 ## Projects and Activities
->  "In order to live free and happily
->   you must sacrifice boredom. 
->   It is not always an easy sacrifice."
-> -- _Richard Bach_
+>  _"In order to live free and happily you must sacrifice boredom. It is not always an easy sacrifice."_ - R. Bach
 
 ## Awards
 `2024` Press coverage for 10^4
