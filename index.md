@@ -135,24 +135,24 @@ Article on InSiDE HPC magazine.
 [Visualization of Human-Scale Blood Flow Simulation Using Intel® OSPRay Studio on SuperMUC-NG
 ](https://sc21.supercomputing.org/proceedings/sci_viz/sci_viz_pages/svs102.html)
 
-SC21 international HPC conference: Finalist at Scientific Visualization & Data Analytics Showcase Archives
+SC21 international HPC conference: Finalist at Scientific Visualization & Data Analytics Showcase Award
 
 `2019-2020` 
 [Researchers Visualize the Largest Turbulence Simulation Ever
 ](https://www.hpcwire.com/2019/10/30/researchers-visualize-the-largest-turbulence-simulation-ever/)
 
-HPC Wire coverage of own project
+HPC Wire press coverage of own project
 
 `2019`
 [InSiDE Autumn 2019](https://www.gauss-centre.eu/news/publications/inside/inside-autumn-2019)
 
-Own scientific visualization chosen as cover image for Autumn 2019 issue
+Own scientific visualization chosen as cover image for Autumn 2019 Issue
 
 
 `2019`
 [Visualizing the World’s Largest Turbulence Simulation](https://sc19.supercomputing.org/proceedings/sci_viz/sci_viz_pages/svs103.html)
 
-SC19 international HPC conference: Finalist at Scientific Visualization & Data Analytics Showcase Archives
+SC19 international HPC conference: Finalist at Scientific Visualization & Data Analytics Showcase Award
 
 `2016`
 **_Balzan Fellowship - Traveling research grant, spent in Johns Hopkins University, USA_**
@@ -160,13 +160,25 @@ Development of numerical models for radio-loud and radio-quiet
 quasars; estimate of turbulence from observations of interstellar gas
 
 ### Committees and Proposals 
-`2024` **SoC exascale at Julich**
+`2024`
+[Towards exascale-ready astrophysics](https://indico3-jsc.fz-juelich.de/event/169/) 
 
-`202` **Co-I for James**
+Board member of [Scientific Organizing Committee](https://indico3-jsc.fz-juelich.de/event/169/page/9-organisers).
 
-`202` **Co-I for DPecho project**
+`2023-2024` 
+[The World’s Largest Supersonic, Magnetohydrodynamic Turbulence Simulation](https://www.gauss-centre.eu/results/astrophysics/the-worlds-largest-supersonic-magnetohydrodynamic-turbulence-simulation)
 
-`2021-Today` **Punch-4-NFDI**
+Co-Investigator in[ Gauss Centre for Supercomputing](https://www.gauss-centre.eu/) research proposal
+
+`2022-2024`
+[DataParallel ECHO: Heterogeneous Programming Applied to High-Energy Astrophysics](https://www.gauss-centre.eu/results/astrophysics/dataparallel-echo-heterogeneous-programming-applied-to-high-energy-astrophysics)
+
+Principal Investigator in [Gauss Centre for Supercomputing](https://www.gauss-centre.eu/) research proposal
+
+`2022-Today` 
+[Particles, Universe NuClei and Hadrons for the Nationale Forschungs-Daten Infrastruktur](https://www.punch4nfdi.de/) PUNCH4NFDI Consortium 
+
+Involved in [Task Area](https://www.punch4nfdi.de/consortium_amp_nfdi/task_areas/) 3 (_Data transformations_) and, to lesser degree, 2 (_Data management_)
 
 ### Software development
 `2024-Today` **GPU Computing with Julia**
