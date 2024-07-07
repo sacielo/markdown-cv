@@ -58,8 +58,7 @@ Boltzmannstr. 1, D-85748 Garching bei München
 
 ### Research interests
 
-`Scientific \
-Applications`
+`Scientific <br> Applications`
 
 - Functionality, **performance and portability** of scientific applications
 - Award-winning scientific **visualizations**
