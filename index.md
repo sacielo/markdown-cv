@@ -163,19 +163,24 @@ Principal Investigator in [Gauss Centre for Supercomputing](https://www.gauss-ce
 PUNCH4NFDI Consortium - Involved in [Task Area](https://www.punch4nfdi.de/consortium_amp_nfdi/task_areas/) 3 (_Data transformations_) and, to lesser degree, 2 (_Data management_)
 
 ### Software development
-`2024-Today` **GPU Computing with Julia**
+`2024-Today` 
+- GPU Computing with Julia
+
+`2023-Today`
+- SYCL on heterogenous harware <br>
+In synergy with DPEcho, I became increasingly involved the LRZ efforts in providing and testing SYCL compilers (eg Intel oneAPI toolkit, Intel LLVM, AdaptiveCpp) on SuperMUC and the [BEAST testbed](https://www.lrz.de/presse/ereignisse/2022-05-26-BEAST-en/). Such challenging service largely improved my ability of **providing sofware as a service**.
 
 `2022-Today`
-DPEcho
+- [DPEcho](https://github.com/LRZ-BADW/DPEcho)<br>
+Through this code development project, cerried on with Intel support,
+I became **proficient in heterogenous computing** with SYCL. Born as SYCL porting of the GR-MHD ECHO code, its focus shifted to its **excellent benchmarking capabilities**, including CPU and GPU **energy-to-solution **measurement, on both HPC-grade and consumer-grade hardware.
 
 `2020-Today`
-Python on Intel hardware
+- Python on Intel hardware
 
-`2021-Today` 
-OSPray Studio 
+`2019-Today` 
+- VisIt and OSPRay Studio
 
-`2019-Today`
-VisIt
 
 ### Teaching 
 `2022`
@@ -183,10 +188,10 @@ VisIt
 In-presence course given
 
 `2020`
-_Performance analysis tools: Intel VTune Amplifier and Advisor_
-Parallel Programming of High Performance Systems @ RRZE <br>
+_Performance analysis tools: Intel VTune Amplifier and Advisor_ <br>
+Parallel Programming of High Performance Systems @ RRZE 
 Course material available online and on demand <br>
-*(actual lecture at Regionales Rechenzentrum Erlangen canceled due to Covid-19 outbreak)
+*_(actual lecture at Regionales Rechenzentrum Erlangen canceled due to Covid-19 outbreak)_
 
 `2012-2013`
 _Advanced Lab #30: CCD Photometry in modern astronomy_ <br>
