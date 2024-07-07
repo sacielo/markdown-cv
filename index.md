@@ -40,25 +40,24 @@ Boltzmannstr. 1, D-85748 Garching bei München
 ### Key abilities
 `HPC`
 - Yearslong expertise on _High-Performance Computing_ (HPC) with focus on application support
-- Deep knowlegde of **etherogeneous HPC hardware**
+- Deep knowlegde of **heterogeneous HPC hardware**
 - Cross-architeture **performance tuning** of multiple code basis and across several programming languages
 - Creation and maintenance of **software stack for HPC systems**
 - Cross-architecture **GPU programming**
   
 ### Soft skills
-`Technical`
-- Reviewer of papers and **proposals for HPC** and Astrophysics fields
-- Scientific writing, teaching and public speaking
 
 `Management`  
 - Team leading, project ideation and management
 - Involvement in hardware/software **co-design** activities, **benchmarking** and **procurements** of hardware and services
 - **Community** building including team mates, **colleagues within and outside my own group**, user base and vendors
 
-### Research interests
-`Scientific` 
+`Technical`
+- Reviewer of papers and **proposals for HPC** and Astrophysics fields
+- Scientific writing, teaching and public speaking
 
-`Applications`
+### Research interests
+`Scientific Applications`
 - Functionality, **performance and portability** of scientific applications
 - Award-winning scientific **visualizations**
 - Fundamental Physics, Extragalactic Astrophysics and Black Holes, especially numerical modeling
@@ -83,13 +82,13 @@ Spanish
 > _"Be patient, for the world is broad and wide." - E. A. Abbott_
 
 ### HPC Expert
-`2021-Today` __Lebiniz Supercomputing Centre__
+`2021-Today` __Leibiniz Supercomputing Centre__
 - [AstroLab](https://doku.lrz.de/astrolab-10746577.html) Team Leader
   
 In addition to application support, I **coordinate the activities of the AstroLab** and proactively propose activities and **projects for junior lab members**, especially in the emerging field of heterogeneous/GPU computing, promoting individual skills and professional growth.
 
 `2018-Today`
-__Lebiniz Supercomputing Centre__
+__Leibiniz Supercomputing Centre__
 - Part of _Computational X Support_ Team
 - Member of AstroLab, application support for Astrophysics
   
@@ -249,15 +248,23 @@ Poster in IWOCL/SYCLcon 2023
 
 `2019` SC19
 
+`2019`
+[Intel eXtreme Performance User Group - IXPUG 2019](https://www.ixpug.org/events/ixpug-annualconf-2019) 
+
+- [Optimizing Astrophysical Simulation and Data Analysis Codes on Intel Architectures](https://ixpug.org/resources/optimizing-astrophysical-simulation-and-data-analysis-codes-on-intel-architectures)
+- [Site Update - Leibniz Supercomputing Centre
+](https://ixpug.org/resources/site-update-leibniz-supercomputing-centre)
+
 ### Other
-`2024` James's 10^4
+`2024` [Magnetized compressible turbulence with a fluctuation dynamo and Reynolds numbers over a million](https://ui.adsabs.harvard.edu/abs/2024arXiv240516626B/abstract)
 
 `2022` PUM - DPecho
 
 `2022` PUM - python
 
-`2015` Ph.D. Dissertation with bilingual (EN/DE) abstract: [Numerical models of AGN jet feedback](https://ui.adsabs.harvard.edu/#abs/2015PhDT.......411C/abstract)
+`2015` [Numerical models of AGN jet feedback](https://ui.adsabs.harvard.edu/#abs/2015PhDT.......411C/abstract)
 
+Ph.D. Dissertation with bilingual (EN/DE) abstract
 
 <!-- ### Footer
 
