@@ -49,7 +49,6 @@ Boltzmannstr. 1, D-85748 Garching bei München
 - Reviewer of papers and proposal for HPC and Astrophysics fields
 - Scientific writing, teaching and public speaking
 
-
 `Management`  
 - Team leading, project ideation and management
 - Involvement in multiple procurements of hardware and services
@@ -62,6 +61,20 @@ Boltzmannstr. 1, D-85748 Garching bei München
 - Functionality, performance and portability of scientific applications
 - Award-winning scientific visualizations
 - Fundamental Physics, Extragalactic Astrophysics and Black Holes, especially numerical modeling
+
+### Languages Spoken
+`Native` 
+Italian
+
+`Fluent`
+English
+German
+
+`Intermediate`
+French
+
+`Beginner`
+Spanish
 
 ## Career
 > _"Be patient, for the world is broad and wide."_ - E. A. Abbott
@@ -106,7 +119,7 @@ My undergraduate studies gave me a scientific education well-balanced among theo
 ## Projects and Activities
 >  _"In order to live free and happily you must sacrifice boredom. It is not always an easy sacrifice."_ - R. Bach
 
-## Awards
+### Awards
 `2024` Press coverage for 10^4
 `2024` Article by Susanne on DPEcho
 `2021-` SC21 finalist
