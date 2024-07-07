@@ -156,7 +156,7 @@ Own scientific visualization chosen as cover image for Autumn 2019 Issue
 SC19 international HPC conference: Finalist at Scientific Visualization & Data Analytics Showcase Award
 
 `2016`
-**_Balzan Fellowship - Traveling research grant, spent in Johns Hopkins University, USA_**
+_Balzan Fellowship - Traveling research grant, spent in Johns Hopkins University, USA_
 
 Development of numerical models for radio-loud and radio-quiet quasars; estimate of turbulence from observations of interstellar gas
 
