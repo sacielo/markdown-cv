@@ -50,7 +50,7 @@ Boltzmannstr. 1, D-85748 Garching bei München
 `Management`  
 - Team leading, project ideation and management
 - Involvement in hardware/software **co-design** activities, **benchmarking** and **procurements** of hardware and services
-- **Community** building including team mates, **colleagues within and outside my own group**, user base and vendors
+- **Community** building including teammates, **colleagues within and outside my own group**, user base and vendors
 
 `Technical`
 - Reviewer of papers and **proposals for HPC** and Astrophysics fields
@@ -58,7 +58,7 @@ Boltzmannstr. 1, D-85748 Garching bei München
 
 ### Research interests
 
-`Scientific 
+`Scientific \
 Applications`
 
 - Functionality, **performance and portability** of scientific applications
@@ -86,8 +86,7 @@ Spanish
 
 ### HPC Expert
 `2021-Today` __Leibiniz Supercomputing Centre__
-- [AstroLab](https://doku.lrz.de/astrolab-10746577.html) Team Leader
-  
+- [AstroLab](https://doku.lrz.de/astrolab-10746577.html) Team Leader \  
 In addition to application support, I **coordinate the activities of the AstroLab** and proactively propose activities and **projects for junior lab members**, especially in the emerging field of heterogeneous/GPU computing, promoting individual skills and professional growth.
 
 `2018-Today`
