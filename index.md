@@ -57,7 +57,11 @@ Boltzmannstr. 1, D-85748 Garching bei München
 - Scientific writing, teaching and public speaking
 
 ### Research interests
-`Scientific \\ Applications`
+```
+Scientific 
+Applications
+```
+
 - Functionality, **performance and portability** of scientific applications
 - Award-winning scientific **visualizations**
 - Fundamental Physics, Extragalactic Astrophysics and Black Holes, especially numerical modeling
