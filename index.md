@@ -122,7 +122,7 @@ My undergraduate studies gave me a scientific education well-balanced among theo
 
 ### Awards
 `2024` 
-[Stunning image reveals the intricate structure of supersonic plasma](https://www.msn.com/en-gb/news/techandscience/stunning-image-reveals-the-intricate-structure-of-supersonic-plasma/ar-BB1noXUd)
+[Stunning image reveals the intricate structure of supersonic plasma](https://www.newscientist.com/article/2433764-stunning-image-reveals-the-intricate-structure-of-supersonic-plasma/)
 
 News coverage on co-authored project.
 
