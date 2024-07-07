@@ -103,13 +103,14 @@ __Institut d'Astrophisique de Paris, Paris, France__
 
 I was granted **large allocation on national Supercomputers** and learned to set up large (several thousands of cores) numerical models, in order to investigate the roles of _Active Galactic Nuclei_ (AGN) on the stability of Galaxies and Galaxy Clusters. 
 
+### Student
+
 __Max Planck Institute for Astronomy, Heidelberg, Germany__
 `2011-2015` 
 - _Magna cum laude_ Doctorate in Physics within the "International Max Planck Research School"
 
 I used a broad set of **numerical simulations** to help constrain the role of Active Galactic Nuclei on the star formation rates in observed galaxies. I also learned about the role of numerical models in the scientific process, and largely improved my **parallel programming** skills.
 
-### Student
 __Universita' di Catania, Catania, Italy__
 `2006-2011`
 - B.Sc. and M.Sc. student in Physics, oriented to Astrophysics and and Space Physics
