@@ -81,7 +81,7 @@ French
 Spanish
 
 ## Career
-> _"Be patient, for the world is broad and wide." - E. A. Abbott_
+> _"Be patient, for the world is broad and wide." <br> - E. A. Abbott_
 
 ### HPC Expert
 `2021-Today` __Leibiniz Supercomputing Centre__
@@ -91,95 +91,78 @@ In addition to application support, I **coordinate the activities of the AstroLa
 `2018-Today`
 __Leibiniz Supercomputing Centre__
 - Part of _Computational X Support_ Team
-- Member of AstroLab, application support for Astrophysics
-  
-Application support activities introduce me to a **vast base of science users**, and to products and solutions from **several HPC vendors**, while providing me with deep knowledge of **profiling tools** and **code modernization** techniques.
+- Member of AstroLab, application support for Astrophysics  <br>  
+Application support activities introduce me to a **vast base of science users**, and to products and solutions from **several HPC vendors**, while providing me with deep knowledge of **profiling tools** and **code modernization** techniques. <br>
 The [research](https://doku.lrz.de/research-and-development-projects-10747346.html) and [high-level support](https://doku.lrz.de/high-level-support-projects-10747323.html) activivities in the _Gauss Center from Supercomputing_ often result in large collaborations, well-received HPC publications and conference submissions, and the provisioning of novel services to LRZ users.
 
 ### Researcher
 `2015-2018`
 __Institut d'Astrophisique de Paris, Paris, France__
-- Postdoctoral Researcher  "BLACK Fellow"
-
+- Postdoctoral Researcher  "BLACK Fellow" <br>
 I was granted **large allocations on national Supercomputers** and learned to set up large (several thousands of cores) numerical models, in order to investigate the roles of _Active Galactic Nuclei_ (AGN) on the stability of Galaxies and Galaxy Clusters. 
 
 ### Student
 
 __Max Planck Institute for Astronomy, Heidelberg, Germany__
 `2011-2015` 
-- _Magna cum laude_ Doctorate in Physics within the "International Max Planck Research School"
-
+- _Magna cum laude_ Doctorate in Physics within the "International Max Planck Research School"  <br>
 I used a broad set of **numerical simulations** to help constrain the role of Active Galactic Nuclei on the star formation rates in observed galaxies. I also learned about the role of numerical models in the scientific process, and largely improved my **parallel programming** skills.
 
 __Universita' di Catania, Catania, Italy__
 `2006-2011`
 - B.Sc. and M.Sc. student in Physics, oriented to Astrophysics and and Space Physics
-- Pupil at the Excellency School "Scuola Superiore di Catania" (SSC)
-
-My undergraduate studies gave me a scientific education well-balanced among theorethical and **experimental** Physics, astronomical observations and **computer science**. In parallel, my SSC scholarship provided complementary and **advanced courses** such as _Numerical Methods for Physics_, _Neuroinformatics and Neural Networks_, _Game Theory_ and _Statistical Physics_ and allowed the discussion of an additional dissertation.
+- Pupil at the Excellency School "Scuola Superiore di Catania" (SSC) <br>
+My undergraduate studies gave me a scientific education well-balanced among theorethical and **experimental** Physics, astronomical observations and **computer science**. <br> In parallel, my SSC scholarship provided complementary and **advanced courses** such as _Numerical Methods for Physics_, _Neuroinformatics and Neural Networks_, _Game Theory_ and _Statistical Physics_ and allowed the discussion of an additional dissertation.
 
 ## Projects and Activities
->  _"In order to live free and happily you must sacrifice boredom. It is not always an easy sacrifice." - R. Bach_
+>  _"In order to live free and happily you must sacrifice boredom. It is not always an easy sacrifice."  <br> - R. Bach_
 
 ### Awards
 `2024` 
-[Stunning image reveals the intricate structure of supersonic plasma](https://www.newscientist.com/article/2433764-stunning-image-reveals-the-intricate-structure-of-supersonic-plasma/)
-
+[Stunning image reveals the intricate structure of supersonic plasma](https://www.newscientist.com/article/2433764-stunning-image-reveals-the-intricate-structure-of-supersonic-plasma/)  <br>
 News coverage on co-authored project.
 
 `2024`
-[Showcasing Innovative Programs and Codes at HiPEAC 2024 ](https://www.gauss-centre.eu/news/publications/inside)
-
+[Showcasing Innovative Programs and Codes at HiPEAC 2024 ](https://www.gauss-centre.eu/news/publications/inside) <br>
 Article on InSiDE HPC magazine.
 
 `2021`
-[Visualization of Human-Scale Blood Flow Simulation Using Intel® OSPRay Studio on SuperMUC-NG
-](https://sc21.supercomputing.org/proceedings/sci_viz/sci_viz_pages/svs102.html)
-
+[Visualization of Human-Scale Blood Flow Simulation Using Intel® OSPRay Studio on SuperMUC-NG](https://sc21.supercomputing.org/proceedings/sci_viz/sci_viz_pages/svs102.html) <br>
 SC21 international HPC conference: Finalist at Scientific Visualization & Data Analytics Showcase Award
 
 `2019` 
 [Researchers Visualize the Largest Turbulence Simulation Ever
-](https://www.hpcwire.com/2019/10/30/researchers-visualize-the-largest-turbulence-simulation-ever/)
-
+](https://www.hpcwire.com/2019/10/30/researchers-visualize-the-largest-turbulence-simulation-ever/) <br>
 HPC Wire press coverage of own project
 
 `2019`
-[InSiDE Autumn 2019](https://www.gauss-centre.eu/news/publications/inside/inside-autumn-2019)
-
+[InSiDE Autumn 2019](https://www.gauss-centre.eu/news/publications/inside/inside-autumn-2019) <br>
 Own scientific visualization chosen as cover image for Autumn 2019 Issue
 
-
 `2019`
-[Visualizing the World’s Largest Turbulence Simulation](https://sc19.supercomputing.org/proceedings/sci_viz/sci_viz_pages/svs103.html)
-
+[Visualizing the World’s Largest Turbulence Simulation](https://sc19.supercomputing.org/proceedings/sci_viz/sci_viz_pages/svs103.html) <br>
 SC19 international HPC conference: Finalist at Scientific Visualization & Data Analytics Showcase Award
 
 `2016`
-_Balzan Fellowship - Traveling research grant, spent in Johns Hopkins University, USA_
-
+_Balzan Fellowship - Traveling research grant, spent in Johns Hopkins University, USA_ <br>
 Development of numerical models for radio-loud and radio-quiet quasars; estimate of turbulence from observations of interstellar gas
 
 ### Committees and Proposals 
 `2024`
-[Towards exascale-ready astrophysics](https://indico3-jsc.fz-juelich.de/event/169/) 
-
+[Towards exascale-ready astrophysics](https://indico3-jsc.fz-juelich.de/event/169/)  <br>
 Board member of [Scientific Organizing Committee](https://indico3-jsc.fz-juelich.de/event/169/page/9-organisers).
 
 `2023-2024` 
-[The World’s Largest Supersonic, Magnetohydrodynamic Turbulence Simulation](https://www.gauss-centre.eu/results/astrophysics/the-worlds-largest-supersonic-magnetohydrodynamic-turbulence-simulation)
-
+[The World’s Largest Supersonic, Magnetohydrodynamic Turbulence Simulation](https://www.gauss-centre.eu/results/astrophysics/the-worlds-largest-supersonic-magnetohydrodynamic-turbulence-simulation) <br>
 Co-Investigator in[ Gauss Centre for Supercomputing](https://www.gauss-centre.eu/) research proposal
 
 `2022-2024`
-[DataParallel ECHO: Heterogeneous Programming Applied to High-Energy Astrophysics](https://www.gauss-centre.eu/results/astrophysics/dataparallel-echo-heterogeneous-programming-applied-to-high-energy-astrophysics)
-
+[DataParallel ECHO: Heterogeneous Programming Applied to High-Energy Astrophysics](https://www.gauss-centre.eu/results/astrophysics/dataparallel-echo-heterogeneous-programming-applied-to-high-energy-astrophysics)  <br>
 Principal Investigator in [Gauss Centre for Supercomputing](https://www.gauss-centre.eu/) research proposal
 
 `2022-Today` 
-[Particles, Universe NuClei and Hadrons for the Nationale Forschungs-Daten Infrastruktur](https://www.punch4nfdi.de/) PUNCH4NFDI Consortium 
-
-Involved in [Task Area](https://www.punch4nfdi.de/consortium_amp_nfdi/task_areas/) 3 (_Data transformations_) and, to lesser degree, 2 (_Data management_)
+[Particles, Universe NuClei and Hadrons for the Nationale Forschungs-Daten Infrastruktur](https://www.punch4nfdi.de/)  <br>
+PUNCH4NFDI Consortium - Involved in [Task Area](https://www.punch4nfdi.de/consortium_amp_nfdi/task_areas/) 3 (_Data transformations_) and, to lesser degree, 2 (_Data management_)
 
 ### Software development
 `2024-Today` **GPU Computing with Julia**
