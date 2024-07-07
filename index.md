@@ -6,8 +6,8 @@ title: Salvatore Cielo's CV
 Dr. Rer. Nat., Astrophysicist, HPC Expert
 
 ## General
-> "Kennst du das Land, wo die Zitronen blühn [...]?"
-> -- _J.W. Goethe_
+> _"Kennst du das Land, wo die Zitronen blühn [...]?"_
+> -J.W. Goethe
 ### Personal
 `Date of birth`
 1986-08-27
