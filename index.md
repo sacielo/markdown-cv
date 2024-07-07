@@ -120,12 +120,18 @@ My undergraduate studies gave me a scientific education well-balanced among theo
 >  _"In order to live free and happily you must sacrifice boredom. It is not always an easy sacrifice." - R. Bach_
 
 ### Awards
-`2024` Press coverage for 10^4
-`2024` Article by Susanne on DPEcho
-`2021-` SC21 finalist
-`202X` - Press coverage for Sciviz
-`202x` Cover of Inside
-`2019` SC19 finalist
+`2024` 
+Press coverage for 10^4
+`2024`
+Article by Susanne on DPEcho
+`2021`
+SC21 finalist
+`202X` 
+Press coverage for Sciviz
+`202x`
+Cover of Inside
+`2019`
+SC19 finalist
 
 ### Committees and Proposals 
 `2024` SoC exascale at Julich
