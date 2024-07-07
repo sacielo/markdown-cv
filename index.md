@@ -137,7 +137,7 @@ Article on InSiDE HPC magazine.
 
 SC21 international HPC conference: Finalist at Scientific Visualization & Data Analytics Showcase Award
 
-`2019-2020` 
+`2019` 
 [Researchers Visualize the Largest Turbulence Simulation Ever
 ](https://www.hpcwire.com/2019/10/30/researchers-visualize-the-largest-turbulence-simulation-ever/)
 
@@ -156,8 +156,8 @@ SC19 international HPC conference: Finalist at Scientific Visualization & Data A
 
 `2016`
 **_Balzan Fellowship - Traveling research grant, spent in Johns Hopkins University, USA_**
-Development of numerical models for radio-loud and radio-quiet
-quasars; estimate of turbulence from observations of interstellar gas
+
+Development of numerical models for radio-loud and radio-quiet quasars; estimate of turbulence from observations of interstellar gas
 
 ### Committees and Proposals 
 `2024`
@@ -225,13 +225,24 @@ Advanced prakticum
 `2018` [Feedback from reorienting AGN jets. I. Jet-ICM coupling, cavity properties and global energetic](https://ui.adsabs.harvard.edu/abs/2018A%26A...617A..58C/abstract)
 
 ### Conferences
-`2024` PASC24
+`2024` [Application Perspective on SYCL, a Modern Programming Model for Performance and Portability ](https://pasc24.pasc-conference.org/program/)
 
-`2024` HiPEAC
+**Minisymposium talk** to PASC 2024 international HPC conference
 
-`2023` SYCLcon23 
+`2024` 
+[Accelerating Performance & Productivity for Heterogeneous Architectures using oneAPI](https://www.hipeac.net/2024/munich/#/program/)
 
-`2023` Workshop visiualization & turbulence
+**Workshop talk** to HiPEAC 2024 international HPC conference
+
+`2023`
+[Portability and Scaling of the DPEcho GR-MHD SYCL code: What’s new for numerical Astrophysics in SYCL2020](https://dl.acm.org/doi/proceedings/10.1145/3585341)
+
+Poster in IWOCL/SYCLcon 2023
+
+`2023` 
+[Visualizing simulations of turbulence and beyond](https://indico.ph.tum.de/event/7199/)
+
+**Invited showcase talk** to technical workshop
 
 `2021` SC21
 
