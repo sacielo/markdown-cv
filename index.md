@@ -39,27 +39,28 @@ Boltzmannstr. 1, D-85748 Garching bei München
 
 ### Key abilities
 `HPC`
-- Years-long expertise on _High-Performance Computing_ (HPC) with focus on Application Support
-- Deep knowlegde of etherogeneous HPC hardware through cross-architeture performance tuning of multiple code basis and across several programming languages
-- Creation and maintenance of software stack for HPC systems
-- Cross-architecture GPU programming
+- Yearslong expertise on _High-Performance Computing_ (HPC) with focus on application support
+- Deep knowlegde of **etherogeneous HPC hardware**
+- Cross-architeture **performance tuning** of multiple code basis and across several programming languages
+- Creation and maintenance of **software stack for HPC systems**
+- Cross-architecture **GPU programming**
   
 ### Soft skills
 `Technical`
-- Reviewer of papers and proposal for HPC and Astrophysics fields
+- Reviewer of papers and **proposals for HPC **and Astrophysics fields
 - Scientific writing, teaching and public speaking
 
 `Management`  
 - Team leading, project ideation and management
-- Involvement in multiple procurements of hardware and services
-- Community building including team mates, colleagues across groups, user base and vendors
+- Involvement in **multiple procurements** of hardware and services
+- **Community** building including team mates, **colleagues within and outside my own group**, user base and vendors
 
 ### Research interests
 `Scientific` 
 
 `Applications`
-- Functionality, performance and portability of scientific applications
-- Award-winning scientific visualizations
+- Functionality, **performance and portability** of scientific applications
+- Award-winning scientific **visualizations**
 - Fundamental Physics, Extragalactic Astrophysics and Black Holes, especially numerical modeling
 
 ### Languages Spoken
@@ -92,21 +93,21 @@ __Lebiniz Supercomputing Centre__
 - Part of _Computational X Support_ Team
 - Member of AstroLab, application support for Astrophysics
   
-Application support activities introduced me to a vast user base, and to products and solutions from HPC vendors, while provided me with experience in profiling tools and code modernization efforts.
+Application support activities introduced me to a **vast base of science users**, and to products and solutions from **several HPC vendors**, while providing me with deep knowledge of **profiling tools** and **code modernization** techniques.
 The [research](https://doku.lrz.de/research-and-development-projects-10747346.html) and [high-level support](https://doku.lrz.de/high-level-support-projects-10747323.html) activivities in the _Gauss Center from Supercomputing_ often resulted in large collaborations, well-received HPC publications and conference submissions, and the provisioning of novel services to LRZ users.
 
 ### Researcher
 `2015-2018`
 __Institut d'Astrophisique de Paris, Paris, France__
-- Postoctoral Researcher  "BLACK Fellow"
+- Postdoctoral Researcher  "BLACK Fellow"
 
-I was granted large allocation on national Supercomputers and learnt to set up large (several thousands of cores) numerical models, in order to investigate the roles of Active Galactic Nuclei (AGN) on the stability of Galaxies and Galaxy Clusters. 
+I was granted **large allocation on national Supercomputers** and learned to set up large (several thousands of cores) numerical models, in order to investigate the roles of _Active Galactic Nuclei_ (AGN) on the stability of Galaxies and Galaxy Clusters. 
 
 __Max Planck Institute for Astronomy, Heidelberg, Germany__
 `2011-2015` 
 - _Magna cum laude_ Doctorate in Physics within the "International Max Planck Research School"
 
-I used a broad range of numerical simulations to help constrain the role of Active Galactic Nuclei on the star formation rates in observed galaxies. I also learned about the role of numerical models in the scientific method, and largely improved my parallel programming skills.
+I used a broad set of **numerical simulations** to help constrain the role of Active Galactic Nuclei on the star formation rates in observed galaxies. I also learned about the role of numerical models in the scientific process, and largely improved my **parallel programming** skills.
 
 ### Student
 __Universita' di Catania, Catania, Italy__
@@ -114,7 +115,7 @@ __Universita' di Catania, Catania, Italy__
 - B.Sc. and M.Sc. student in Physics, oriented to Astrophysics and and Space Physics
 - Pupil at the Excellency School "Scuola Superiore di Catania" (SSC)
 
-My undergraduate studies gave me a scientific education well-balanced among theorethical and experimental Physics, astronomical observations and computer science. In parallel, my SSC scholarship provided complementary and advanced courses such as _numerical methods for science_, _Neuroinformatics and neural networks_, _Game Theory_ and _Statistical Physics_ and allowed the discussion an additional dissertation.
+My undergraduate studies gave me a scientific education well-balanced among theorethical and **experimental** Physics, astronomical observations and **computer science**. In parallel, my SSC scholarship provided complementary and **advanced courses** such as _Numerical Methods for Physics_, _Neuroinformatics and Neural Networks_, _Game Theory_ and _Statistical Physics_ and allowed the discussion of an additional dissertation.
 
 ## Projects and Activities
 >  _"In order to live free and happily you must sacrifice boredom. It is not always an easy sacrifice." - R. Bach_
