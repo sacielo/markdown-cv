@@ -64,28 +64,28 @@ Boltzmannstr. 1, D-85748 Garching bei München
 
 ### Languages Spoken
 `Native` 
-Italian
+- Italian
 
 `Fluent`
-English
-German
+- English
+- German
 
 `Intermediate`
-French
+- French
 
 `Beginner`
-Spanish
+- Spanish
 
 ## Career
-> _"Be patient, for the world is broad and wide."_ - E. A. Abbott
+> _"Be patient, for the world is broad and wide." - E. A. Abbott_
 
 ### HPC Expert
-`2021 : Today` __Lebiniz Supercomputing Centre__
+`2021-Today` __Lebiniz Supercomputing Centre__
 - [AstroLab](https://doku.lrz.de/astrolab-10746577.html) Team Leader
   
 In addition to application support, I coordinated the activities of the AstroLab and proactively proposed activities and projects for junior lab members, especially on heterogeneous/GPU computing, leveraging and promoting individual skills and wishes.
 
-`2018 : Today`
+`2018-Today`
 __Lebiniz Supercomputing Centre__
 - Part of _Computational X Support_ Team
 - Member of AstroLab, application support for Astrophysics
@@ -94,21 +94,21 @@ Application support activities introduced me to a vast user base, and to product
 The [research](https://doku.lrz.de/research-and-development-projects-10747346.html) and [high-level support](https://doku.lrz.de/high-level-support-projects-10747323.html) activivities in the _Gauss Center from Supercomputing_ often resulted in large collaborations, well-received HPC publications and conference submissions, and the provisioning of novel services to LRZ users.
 
 ### Researcher
-`2015 : 2018`
+`2015-2018`
 __Institut d'Astrophisique de Paris, Paris, France__
 - Postoctoral Researcher  "BLACK Fellow"
 
 I was granted large allocation on national Supercomputers and learnt to set up large (several thousands of cores) numerical models, in order to investigate the roles of Active Galactic Nuclei (AGN) on the stability of Galaxies and Galaxy Clusters. 
 
 __Max Planck Institute for Astronomy, Heidelberg, Germany__
-`2011 : 2015` 
+`2011-2015` 
 - _Magna cum laude_ Doctorate in Physics within the "International Max Planck Research School"
 
 I used a broad range of numerical simulations to help constrain the role of Active Galactic Nuclei on the star formation rates in observed galaxies. I also learned about the role of numerical models in the scientific method, and largely improved my parallel programming skills.
 
 ### Student
 __Universita' di Catania, Catania, Italy__
-`2006 : 2011`
+`2006-2011`
 - B.Sc. and M.Sc. student in Physics, oriented to Astrophysics and and Space Physics
 - Pupil at the Excellency School "Scuola Superiore di Catania" (SSC)
 
@@ -117,7 +117,7 @@ My undergraduate studies gave me a scientific education well-balanced among theo
 
 
 ## Projects and Activities
->  _"In order to live free and happily you must sacrifice boredom. It is not always an easy sacrifice."_ - R. Bach
+>  _"In order to live free and happily you must sacrifice boredom. It is not always an easy sacrifice." - R. Bach_
 
 ### Awards
 `2024` Press coverage for 10^4
@@ -147,7 +147,7 @@ VisIt & co.
 `2020`
 Course at Erlangen
 
-`2013 : 2014`
+`2013-2014`
 Advanced prakticum
 
 ### Mentorship
