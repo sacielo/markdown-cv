@@ -65,19 +65,19 @@ Boltzmannstr. 1, D-85748 Garching bei München
 
 ### Languages Spoken
 `Native` 
-- Italian
+Italian
 
 `Good`
-- English
+English
 
 `Good`
-- German
+German
 
 `Intermediate`
-- French
+French
 
 `Beginner`
-- Spanish
+Spanish
 
 ## Career
 > _"Be patient, for the world is broad and wide." - E. A. Abbott_
