@@ -7,6 +7,7 @@ Dr. Rer. Nat., Astrophysicist, HPC Expert
 
 ## General
 > _"Kennst du das Land, wo die Zitronen blühn [...]?"_
+> 
 > -J.W. Goethe
 ### Personal
 `Date of birth`
@@ -37,6 +38,7 @@ Tel +49 (0)89 35831 7880
 ## Skills and Experience
 > "[...] the Universe as a whole, in its full complexity, cannot
 > be represented by any simulation smaller than itself."
+> 
 > -- _I. Asimov_
 
 ### Key abilities
