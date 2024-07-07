@@ -10,10 +10,10 @@ Dr. Rer. Nat., Astrophysicist, HPC Expert
 > 
 > -J.W. Goethe
 ### Personal
-`Date of birth`
+`Birthdate`
 1986-08-27
 
-`Place of birth`
+`Birthplace`
 Palermo, Italy
 
 `Citizenship`
@@ -27,7 +27,7 @@ Italian
 Boltzmannstr. 1, D-85748 Garching bei München
 
 `Phone`
-Tel +49 (0)89 35831 7880
+(+49|0)89 35831 8870
 
 `email`
 <a href="mailto:cielo@lrz.de">cielo@lrz.de</a>
@@ -36,10 +36,9 @@ Tel +49 (0)89 35831 7880
 <a href="https://sacielo.github.io/markdown-cv/"> sacielo.github.io/markdown-cv </a>
 
 ## Skills and Experience
-> "[...] the Universe as a whole, in its full complexity, cannot
-> be represented by any simulation smaller than itself."
+> _"[...] the Universe as a whole, in its full complexity, cannot be represented by any simulation smaller than itself."_
 > 
-> -- _I. Asimov_
+> - I. Asimov
 
 ### Key abilities
 `HPC`
@@ -68,8 +67,8 @@ Tel +49 (0)89 35831 7880
 - Fundamental Physics, Extragalactic Astrophysics and Black Holes, especially numerical modeling
 
 ## Career
-> "Be patient, for the world is broad and wide."
-> -- _E. A. Abbott_
+> _"Be patient, for the world is broad and wide."_
+> -E. A. Abbott
 
 ### HPC Expert
 `2021 : Today` __Lebiniz Supercomputing Centre__
