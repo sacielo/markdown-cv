@@ -47,7 +47,7 @@ Boltzmannstr. 1, D-85748 Garching bei München
   
 ### Soft skills
 `Technical`
-- Reviewer of papers and **proposals for HPC **and Astrophysics fields
+- Reviewer of papers and **proposals for HPC** and Astrophysics fields
 - Scientific writing, teaching and public speaking
 
 `Management`  
