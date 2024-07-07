@@ -6,7 +6,7 @@ title: Salvatore Cielo's CV
 Dr. Rer. Nat., Astrophysicist, HPC Expert
 
 ## General
-> _"Kennst du das Land, wo die Zitronen blühn [...]?"_ -J.W. Goethe
+> _"Kennst du das Land, wo die Zitronen blühn [...]?" -J.W. Goethe_
 
 ### Personal
 `Birthdate`
@@ -35,7 +35,7 @@ Boltzmannstr. 1, D-85748 Garching bei München
 <a href="https://sacielo.github.io/markdown-cv/"> sacielo.github.io/markdown-cv </a>
 
 ## Skills and Experience
-> _"[...] the Universe as a whole, in its full complexity, cannot be represented by any simulation smaller than itself."_ - I. Asimov
+> _"[...] the Universe as a whole, in its full complexity, cannot be represented by any simulation smaller than itself." - I. Asimov_
 
 ### Key abilities
 `HPC`
