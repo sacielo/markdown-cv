@@ -93,7 +93,7 @@ I was granted large allocation on national Supercomputers and learnt to set up l
 
 __Max Planck Institute for Astronomy, Heidelberg, Germany__
 `2011 : 2015` 
-- **Magna cum laude** Doctorate in Physics within the "International Max Planck Research School"
+- _Magna cum laude_ Doctorate in Physics within the "International Max Planck Research School"
 
 I used a broad range of numerical simulations to help constrain the role of Active Galactic Nuclei on the star formation rates in observed galaxies. I also learned about the role of numerical models in the scientific method, and largely improved my parallel programming skills.
 
