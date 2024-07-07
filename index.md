@@ -68,6 +68,8 @@ Boltzmannstr. 1, D-85748 Garching bei München
 
 `Fluent`
 - English
+
+`Fluent`
 - German
 
 `Intermediate`
