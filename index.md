@@ -52,7 +52,7 @@ Boltzmannstr. 1, D-85748 Garching bei München
 
 `Management`  
 - Team leading, project ideation and management
-- Involvement in **multiple procurements** of hardware and services
+- Involvement in hardware/software **co-design** activities, **benchmarking** and **procurements** of hardware and services
 - **Community** building including team mates, **colleagues within and outside my own group**, user base and vendors
 
 ### Research interests
