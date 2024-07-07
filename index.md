@@ -86,7 +86,7 @@ Spanish
 
 ### HPC Expert
 `2021-Today` __Leibiniz Supercomputing Centre__
-- [AstroLab](https://doku.lrz.de/astrolab-10746577.html) Team Leader \  
+- [AstroLab](https://doku.lrz.de/astrolab-10746577.html) Team Leader <br>  
 In addition to application support, I **coordinate the activities of the AstroLab** and proactively propose activities and **projects for junior lab members**, especially in the emerging field of heterogeneous/GPU computing, promoting individual skills and professional growth.
 
 `2018-Today`
