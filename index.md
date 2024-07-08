@@ -3,7 +3,9 @@ layout: cv
 title: Salvatore Cielo
 ---
 # Salvatore Cielo, Ph.D.
-![Alt text](photo.jpg "Salvatore Cielo")
+<!---
+![Alt text](photo.jpg "Salvatore Cielo") 
+--->
 Dr. Rer. Nat., Astrophysicist, HPC Expert
 
 
