@@ -2,10 +2,13 @@
 layout: cv
 title: Salvatore Cielo
 ---
+
+
 # Salvatore Cielo, Ph.D.
 <!---
 ![Alt text](photo.jpg "Salvatore Cielo") 
 --->
+<img src="photo.jpg" alt="Dinosaur" width=100 />
 Dr. Rer. Nat., Astrophysicist, HPC Expert
 
 
