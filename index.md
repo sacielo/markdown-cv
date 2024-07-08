@@ -10,7 +10,7 @@ title: Salvatore Cielo
 --->
 Dr. Rer. Nat., Astrophysicist, HPC Expert
 
-<img src="photo.jpg" alt="Salvatore Cielo" width=100  style="position:relative; top:-180px; left:-150px;"/>  
+<img src="photo.jpg" alt="Salvatore Cielo" width=100  style="position:relative; top:-30px; left:-120px;"/>  
 
 ## General
 > _"Kennst du das Land, wo die Zitronen blühn [...]?" <br> - J.W. Goethe_
