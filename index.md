@@ -8,9 +8,9 @@ title: Salvatore Cielo
 <!---
 ![Alt text](photo.jpg "Salvatore Cielo") 
 --->
-<img src="photo.jpg" alt="Dinosaur" width=100 />
 Dr. Rer. Nat., Astrophysicist, HPC Expert
 
+<img src="photo.jpg" alt="Dinosaur" width=100 />
 
 ## General
 > _"Kennst du das Land, wo die Zitronen blühn [...]?" <br> - J.W. Goethe_
