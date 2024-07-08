@@ -6,7 +6,7 @@ title: Salvatore Cielo
 Dr. Rer. Nat., Astrophysicist, HPC Expert
 
 ## General
-> _"Kennst du das Land, wo die Zitronen blühn [...]?" <br> -J.W. Goethe_
+> _"Kennst du das Land, wo die Zitronen blühn [...]?" <br> - J.W. Goethe_
 
 ### Personal
 `Birthdate`
@@ -93,20 +93,16 @@ Spanish
 The [research](https://doku.lrz.de/research-and-development-projects-10747346.html) and [high-level support](https://doku.lrz.de/high-level-support-projects-10747323.html) activivities in the _Gauss Center from Supercomputing_ often result in large collaborations, well-received HPC publications and conference submissions, and the provisioning of novel services to LRZ users.
 
 ### Researcher
-`2015-2018`
-__Institut d'Astrophisique de Paris, Paris, France__
+`2015-2018` __Institut d'Astrophisique de Paris, Paris, France__
 - Postdoctoral Researcher  "BLACK Fellow" <br>
 I was granted **large allocations on national Supercomputers** and learned to set up large (several thousands of cores) numerical models, in order to investigate the roles of _Active Galactic Nuclei_ (AGN) on the stability of Galaxies and Galaxy Clusters. 
 
 ### Student
-
-__Max Planck Institute for Astronomy, Heidelberg, Germany__
-`2011-2015` 
+`2011-2015` __Max Planck Institute for Astronomy, Heidelberg, Germany__
 - _Magna cum laude_ Doctorate in Physics within the "International Max Planck Research School"  <br>
 I used a broad set of **numerical simulations** to help constrain the role of Active Galactic Nuclei on the star formation rates in observed galaxies. I also learned about the role of numerical models in the scientific process, and largely improved my **parallel programming** skills.
 
-__Universita' di Catania, Catania, Italy__
-`2006-2011`
+`2006-2011` __Universita' di Catania, Catania, Italy__
 - B.Sc. and M.Sc. student in Physics, oriented to Astrophysics and and Space Physics
 - Pupil at the Excellency School "Scuola Superiore di Catania" (SSC) <br>
 My undergraduate studies gave me a scientific education well-balanced among theorethical and **experimental** Physics, astronomical observations and **computer science**. <br> In parallel, my SSC scholarship provided complementary and **advanced courses** such as _Numerical Methods for Physics_, _Neuroinformatics and Neural Networks_, _Game Theory_ and _Statistical Physics_ and allowed the discussion of an additional dissertation.
@@ -116,47 +112,49 @@ My undergraduate studies gave me a scientific education well-balanced among theo
 
 ### Awards
 `2024` 
-[Stunning image reveals the intricate structure of supersonic plasma](https://www.newscientist.com/article/2433764-stunning-image-reveals-the-intricate-structure-of-supersonic-plasma/)  <br>
+- [Stunning image reveals the intricate structure of supersonic plasma](https://www.newscientist.com/article/2433764-stunning-image-reveals-the-intricate-structure-of-supersonic-plasma/)  <br>
 News coverage on co-authored project.
 
 `2024`
-[Showcasing Innovative Programs and Codes at HiPEAC 2024 ](https://www.gauss-centre.eu/news/publications/inside) <br>
+- [Showcasing Innovative Programs and Codes at HiPEAC 2024 ](https://www.gauss-centre.eu/news/publications/inside) <br>
 Article on InSiDE HPC magazine.
 
 `2021`
-[Visualization of Human-Scale Blood Flow Simulation Using Intel® OSPRay Studio on SuperMUC-NG](https://sc21.supercomputing.org/proceedings/sci_viz/sci_viz_pages/svs102.html) <br>
+- [Visualization of Human-Scale Blood Flow Simulation Using Intel® OSPRay Studio on SuperMUC-NG](https://sc21.supercomputing.org/proceedings/sci_viz/sci_viz_pages/svs102.html) <br>
 SC21 international HPC conference: Finalist at Scientific Visualization & Data Analytics Showcase Award
 
 `2019` 
-[Researchers Visualize the Largest Turbulence Simulation Ever
+- [Researchers Visualize the Largest Turbulence Simulation Ever
 ](https://www.hpcwire.com/2019/10/30/researchers-visualize-the-largest-turbulence-simulation-ever/) <br>
 HPC Wire press coverage of own project
 
 `2019`
-[InSiDE Autumn 2019](https://www.gauss-centre.eu/news/publications/inside/inside-autumn-2019) <br>
+- [InSiDE Autumn 2019](https://www.gauss-centre.eu/news/publications/inside/inside-autumn-2019) <br>
 Own scientific visualization chosen as cover image for Autumn 2019 Issue
 
 `2019`
-[Visualizing the World’s Largest Turbulence Simulation](https://sc19.supercomputing.org/proceedings/sci_viz/sci_viz_pages/svs103.html) <br>
+- [Visualizing the World’s Largest Turbulence Simulation](https://sc19.supercomputing.org/proceedings/sci_viz/sci_viz_pages/svs103.html) <br>
 SC19 international HPC conference: Finalist at Scientific Visualization & Data Analytics Showcase Award
 
 `2016`
-_Balzan Fellowship - Traveling research grant, spent in Johns Hopkins University, USA_ <br>
+- _Balzan Fellowship - Traveling research grant, spent in Johns Hopkins University, USA_ <br>
 Development of numerical models for radio-loud and radio-quiet quasars; estimate of turbulence from observations of interstellar gas
 
 ### Committees and Proposals 
 `2024`
-[Towards exascale-ready astrophysics](https://indico3-jsc.fz-juelich.de/event/169/)  <br>
+- [Towards exascale-ready astrophysics](https://indico3-jsc.fz-juelich.de/event/169/)  <br>
 Board member of [Scientific Organizing Committee](https://indico3-jsc.fz-juelich.de/event/169/page/9-organisers).
 
-`2023-2024` [The World’s Largest Supersonic, Magnetohydrodynamic Turbulence Simulation](https://www.gauss-centre.eu/results/astrophysics/the-worlds-largest-supersonic-magnetohydrodynamic-turbulence-simulation) <br>
+`2023-2024` 
+- [The World’s Largest Supersonic, Magnetohydrodynamic Turbulence Simulation](https://www.gauss-centre.eu/results/astrophysics/the-worlds-largest-supersonic-magnetohydrodynamic-turbulence-simulation) <br>
 Co-Investigator in [Gauss Centre for Supercomputing](https://www.gauss-centre.eu/) research proposal
 
-`2022-2024` [DataParallel ECHO: Heterogeneous Programming Applied to High-Energy Astrophysics](https://www.gauss-centre.eu/results/astrophysics/dataparallel-echo-heterogeneous-programming-applied-to-high-energy-astrophysics)  <br>
+`2022-2024` 
+- [DataParallel ECHO: Heterogeneous Programming Applied to High-Energy Astrophysics](https://www.gauss-centre.eu/results/astrophysics/dataparallel-echo-heterogeneous-programming-applied-to-high-energy-astrophysics)  <br>
 Principal Investigator in [Gauss Centre for Supercomputing](https://www.gauss-centre.eu/) research proposal
 
 `2022-Today` 
-[Particles, Universe NuClei and Hadrons for the Nationale Forschungs-Daten Infrastruktur](https://www.punch4nfdi.de/)  <br>
+- [Particles, Universe NuClei and Hadrons for the Nationale Forschungs-Daten Infrastruktur](https://www.punch4nfdi.de/)  <br>
 PUNCH4NFDI Consortium - Involved in [Task Area](https://www.punch4nfdi.de/consortium_amp_nfdi/task_areas/) 3 (_Data transformations_) and, to lesser degree, 2 (_Data management_)
 
 ### Software development
@@ -169,8 +167,7 @@ In synergy with DPEcho, I became increasingly involved the LRZ efforts in provid
 
 `2022-Today`
 - [DPEcho](https://github.com/LRZ-BADW/DPEcho)<br>
-Through this code development project, cerried on with Intel support,
-I became **proficient in heterogenous computing** with SYCL. Born as SYCL porting of the GR-MHD ECHO code, its focus shifted to its **excellent benchmarking capabilities**, including CPU and GPU **energy-to-solution** measurements, on both HPC-grade and consumer-grade hardware.
+Through this code development project, carried on with Intel support, I became **proficient in heterogenous computing** with SYCL. Born as SYCL porting of the GR-MHD ECHO code, its focus shifted to its **excellent benchmarking capabilities**, including CPU and GPU **energy-to-solution** measurements, on both HPC-grade and consumer-grade hardware.
 
 `2020-Today`
 - Python on Intel hardware
@@ -181,24 +178,24 @@ I became **proficient in heterogenous computing** with SYCL. Born as SYCL portin
 
 ### Teaching 
 `2022`
-[VisIt and OSPRay Studio for Scientific Visualisation](https://doku.lrz.de/visit-and-ospray-studio-for-scientific-visualisation-10333506.html) <br>
+- [VisIt and OSPRay Studio for Scientific Visualisation](https://doku.lrz.de/visit-and-ospray-studio-for-scientific-visualisation-10333506.html) <br>
 In-presence course given
 
 `2020`
-_Performance analysis tools: Intel VTune Amplifier and Advisor_ <br>
+- _Performance analysis tools: Intel VTune Amplifier and Advisor_ <br>
 Parallel Programming of High Performance Systems @ RRZE 
 Course material available online and on demand <br>
 *_(actual lecture at Regionales Rechenzentrum Erlangen canceled due to Covid-19 outbreak)_
 
 `2012-2013`
-_Advanced Lab #30: CCD Photometry in modern astronomy_ <br>
+- _Advanced Lab #30: CCD Photometry in modern astronomy_ <br>
 Class and experiment, including liquid nitrogen handling
 and independent access to telescope facilities
 
 ### Mentorship
 
 `2024-Today` 
-_Accelerating HPC Python Workloads_ <br>
+- _Accelerating HPC Python Workloads_ <br>
 Mentoring of an intern at Leibniz Supercomputing Center (3+3 months)
 
 ## Publications
@@ -208,33 +205,37 @@ Mentoring of an intern at Leibniz Supercomputing Center (3+3 months)
 > records for a more comprehensive list.
 
 ### Journals
-`2022` [Optimizing the hybrid parallelization of BHAC](https://ui.adsabs.harvard.edu/#abs/2022A%26C....3800509C/abstract)
+`2022` 
+- [Optimizing the hybrid parallelization of BHAC](https://ui.adsabs.harvard.edu/#abs/2022A%26C....3800509C/abstract)
 
-`2021` [Visualizing the world's largest turbulence simulation](https://www.sciencedirect.com/science/article/abs/pii/S016781912100017X)
+`2021` 
+- [Visualizing the world's largest turbulence simulation](https://www.sciencedirect.com/science/article/abs/pii/S016781912100017X)
 
-`2020` [Honing and proofing Astrophysical codes on the road to Exascale. Experiences from code modernization on many-core systems](https://www.sciencedirect.com/science/article/pii/S0167739X19308350)
+`2020` 
+- [Honing and proofing Astrophysical codes on the road to Exascale. Experiences from code modernization on many-core systems](https://www.sciencedirect.com/science/article/pii/S0167739X19308350)
 
-`2018` [Feedback from reorienting AGN jets. I. Jet-ICM coupling, cavity properties and global energetic](https://ui.adsabs.harvard.edu/abs/2018A%26A...617A..58C/abstract)
+`2018` 
+- [Feedback from reorienting AGN jets. I. Jet-ICM coupling, cavity properties and global energetic](https://ui.adsabs.harvard.edu/abs/2018A%26A...617A..58C/abstract)
 
 ### Conferences
-`2024` [Application Perspective on SYCL, a Modern Programming Model for Performance and Portability ](https://pasc24.pasc-conference.org/program/) <br>
+`2024` 
+- [Application Perspective on SYCL, a Modern Programming Model for Performance and Portability ](https://pasc24.pasc-conference.org/program/) <br>
 **Minisymposium talk** to PASC 2024 international HPC conference
 
 `2024` 
-[Accelerating Performance & Productivity for Heterogeneous Architectures using oneAPI](https://www.hipeac.net/2024/munich/#/program/) <br>
+- [Accelerating Performance & Productivity for Heterogeneous Architectures using oneAPI](https://www.hipeac.net/2024/munich/#/program/) <br>
 **Workshop talk** to HiPEAC 2024 international HPC conference
 
 `2023`
-[Portability and Scaling of the DPEcho GR-MHD SYCL code: What’s new for numerical Astrophysics in SYCL2020](https://dl.acm.org/doi/proceedings/10.1145/3585341) <br>
+- [Portability and Scaling of the DPEcho GR-MHD SYCL code: What’s new for numerical Astrophysics in SYCL2020](https://dl.acm.org/doi/proceedings/10.1145/3585341) <br>
 Poster in IWOCL/SYCLcon 2023
 
 `2023` 
-[Visualizing simulations of turbulence and beyond](https://indico.ph.tum.de/event/7199/) <br>
+- [Visualizing simulations of turbulence and beyond](https://indico.ph.tum.de/event/7199/) <br>
 **Invited showcase talk** to technical workshop
 
 `2021`
-[Visualization of Human-scale Blood Flow Simulation
-using Intel® OSPRay Studio on SuperMUC-NG](https://sc21.supercomputing.org/proceedings/sci_viz/sci_viz_files/svs102s2-file1.pdf) <br> SC21 International HPC Conference - Companion paper to the scientific visualization submission
+- [Visualization of Human-scale Blood Flow Simulation using Intel OSPRay Studio on SuperMUC-NG](https://sc21.supercomputing.org/proceedings/sci_viz/sci_viz_files/svs102s2-file1.pdf) <br> SC21 International HPC Conference - Companion paper to the scientific visualization submission
 
 `2019` [Visualizing the world’s largest turbulence simulation](https://sc19.supercomputing.org/proceedings/sci_viz/sci_viz_files/svs103s2-file1.pdf) <br> SC21 International HPC Conference - Companion paper to the scientific visualization submission
 
@@ -245,16 +246,20 @@ using Intel® OSPRay Studio on SuperMUC-NG](https://sc21.supercomputing.org/proc
 Talks at the [Intel eXtreme Performance User Group - IXPUG 2019](https://www.ixpug.org/events/ixpug-annualconf-2019)
 
 ### Other
-`2024` [Magnetized compressible turbulence with a fluctuation dynamo and Reynolds numbers over a million](https://ui.adsabs.harvard.edu/abs/2024arXiv240516626B/abstract) <br>
+`2024` 
+- [Magnetized compressible turbulence with a fluctuation dynamo and Reynolds numbers over a million](https://ui.adsabs.harvard.edu/abs/2024arXiv240516626B/abstract) <br>
 In prep.
 
-`2023` [DPEcho: General Relativity with SYCL* for the 2020s and beyond](https://www.intel.com/content/www/us/en/developer/articles/technical/dpecho-general-relativity-sycl-for-2020-beyond.html) <br>
+`2023` 
+- [DPEcho: General Relativity with SYCL for the 2020s and beyond](https://www.intel.com/content/www/us/en/developer/articles/technical/dpecho-general-relativity-sycl-for-2020-beyond.html) <br>
 Online article, also appeared on _The Parallel Universe Magazine_, Issue 51
 
-`2022`  [Speeding Up Simulation Analysis with yt* and Intel® Distribution for Python](https://www.intel.com/content/www/us/en/developer/articles/news/parallel-universe-magazine/issue-38-october-2019.html)  <br>
+`2022` 
+- [Speeding Up Simulation Analysis with yt* and Intel® Distribution for Python](https://www.intel.com/content/www/us/en/developer/articles/news/parallel-universe-magazine/issue-38-october-2019.html)  <br>
 Article appeared on _The Parallel Universe Magazine_, Issue 38
 
-`2015` [Numerical models of AGN jet feedback](https://ui.adsabs.harvard.edu/#abs/2015PhDT.......411C/abstract) <br>
+`2015` 
+- [Numerical models of AGN jet feedback](https://ui.adsabs.harvard.edu/#abs/2015PhDT.......411C/abstract) <br>
 Ph.D. Dissertation with bilingual (EN/DE) abstract
 
 <!-- ### Footer
