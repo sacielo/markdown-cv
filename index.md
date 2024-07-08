@@ -123,7 +123,7 @@ Article on InSiDE HPC magazine.
 
 `2021`
 - [Visualization of Human-Scale Blood Flow Simulation Using Intel® OSPRay Studio on SuperMUC-NG](https://sc21.supercomputing.org/proceedings/sci_viz/sci_viz_pages/svs102.html) <br>
-SC21 international HPC conference: Finalist at Scientific Visualization & Data Analytics Showcase Award
+SC21 international HPC conference: finalist at Scientific Visualization & Data Analytics Showcase Award
 
 `2019` 
 - [Researchers Visualize the Largest Turbulence Simulation Ever
@@ -136,7 +136,7 @@ Own scientific visualization chosen as cover image for Autumn 2019 Issue
 
 `2019`
 - [Visualizing the World’s Largest Turbulence Simulation](https://sc19.supercomputing.org/proceedings/sci_viz/sci_viz_pages/svs103.html) <br>
-SC19 international HPC conference: Finalist at Scientific Visualization & Data Analytics Showcase Award
+SC19 international HPC conference: finalist at Scientific Visualization & Data Analytics Showcase Award
 
 `2016`
 - _Balzan Fellowship - Traveling research grant, spent in Johns Hopkins University, USA_ <br>
@@ -169,7 +169,7 @@ Hence it is desirable to use **Julia for GPU programming**, using [oneAPI.jl](ht
 
 `2023-Today`
 - SYCL on heterogenous harware <br>
-In synergy with DPEcho, I became increasingly involved the LRZ efforts in providing and testing SYCL compilers (e.g. Intel oneAPI, Intel LLVM, [AdaptiveCpp](https://github.com/AdaptiveCpp/AdaptiveCpp), also with the [Spack package manager](https://packages.spack.io/)) on SuperMUC and the [BEAST testbed](https://www.lrz.de/presse/ereignisse/2022-05-26-BEAST-en/). Such challenging service largely improved my ability of **providing sofware as a service**.
+In synergy with DPEcho, I became increasingly involved in the LRZ efforts in providing and testing SYCL compilers (e.g. Intel oneAPI, Intel LLVM, [AdaptiveCpp](https://github.com/AdaptiveCpp/AdaptiveCpp), also with the [Spack package manager](https://packages.spack.io/)) on SuperMUC and the [BEAST testbed](https://www.lrz.de/presse/ereignisse/2022-05-26-BEAST-en/). This experience largely improved my ability of **providing sofware as a service**.
 
 `2022-Today`
 - [DPEcho](https://github.com/LRZ-BADW/DPEcho)<br>
@@ -186,13 +186,13 @@ The scientific visualization software VisIt recently embedded Intel OSPRay as a 
 ### Teaching 
 `2022`
 - [VisIt and OSPRay Studio for Scientific Visualisation](https://doku.lrz.de/visit-and-ospray-studio-for-scientific-visualisation-10333506.html) <br>
-In-presence course given
+In-presence course
 
 `2020`
 - _Performance analysis tools: Intel VTune Amplifier and Advisor_ <br>
 Parallel Programming of High Performance Systems @ RRZE 
 Course material available online and on demand <br>
-*_(actual lecture at Regionales Rechenzentrum Erlangen canceled due to Covid-19 outbreak)_
+_(actual lecture at Regionales Rechenzentrum Erlangen canceled due to Covid-19 outbreak)_
 
 `2012-2013`
 - _Advanced Lab #30: CCD Photometry in modern astronomy_ <br>
