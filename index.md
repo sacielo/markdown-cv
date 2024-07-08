@@ -3,24 +3,14 @@ layout: cv
 title: Salvatore Cielo
 ---
 
-| Cat pics                            | Dog pics                            |
-| ![cat](photo2.jpg) | ![dog](https://example.com/dog.png) |
-
 # Salvatore Cielo, Ph.D.
-<!---
-![Alt text](photo.jpg "Salvatore Cielo") 
-## <img src="photo.jpg" alt="Dinosaur" width=100 style="position:absolute; top:-280px; left:120px;" />  General
---->
 Dr. Rer. Nat., Astrophysicist, HPC Expert
-
-
-
 
 ## General
 > _"Kennst du das Land, wo die Zitronen blühn [...]?" <br> - J.W. Goethe_
 
 ### Personal
-`a` <img src="photo.jpg" alt="Salvatore Cielo" width=100  style="position:relative; top:-60px; left:-120px;"/>  
+`a` <img src="photo.jpg" alt="Salvatore Cielo" width=100  style="position:relative; top:-250px; left:-120px;"/>  
 
 `Birthdate`
 1986-08-27
