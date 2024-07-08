@@ -3,9 +3,9 @@ layout: cv
 title: Salvatore Cielo
 ---
 # Salvatore Cielo, Ph.D.
+![Alt text](photo.jpg "Salvatore Cielo")
 Dr. Rer. Nat., Astrophysicist, HPC Expert
 
-![Alt text]( "a title")
 
 ## General
 > _"Kennst du das Land, wo die Zitronen blühn [...]?" <br> - J.W. Goethe_
