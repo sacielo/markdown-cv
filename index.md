@@ -5,6 +5,8 @@ title: Salvatore Cielo
 # Salvatore Cielo, Ph.D.
 Dr. Rer. Nat., Astrophysicist, HPC Expert
 
+![Alt text]( "a title")
+
 ## General
 > _"Kennst du das Land, wo die Zitronen blühn [...]?" <br> - J.W. Goethe_
 
