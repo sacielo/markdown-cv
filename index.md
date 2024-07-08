@@ -167,7 +167,7 @@ Hence it is desirable to use **Julia for GPU programming**, using [oneAPI.jl](ht
 
 `2023-Today`
 - SYCL on heterogenous harware <br>
-In synergy with DPEcho, I became increasingly involved the LRZ efforts in providing and testing SYCL compilers (eg Intel oneAPI toolkit, Intel LLVM, AdaptiveCpp) on SuperMUC and the [BEAST testbed](https://www.lrz.de/presse/ereignisse/2022-05-26-BEAST-en/). Such challenging service largely improved my ability of **providing sofware as a service**.
+In synergy with DPEcho, I became increasingly involved the LRZ efforts in providing and testing SYCL compilers (e.g. Intel oneAPI, Intel LLVM, [AdaptiveCpp](https://github.com/AdaptiveCpp/AdaptiveCpp), also with the [Spack package manager](https://packages.spack.io/)) on SuperMUC and the [BEAST testbed](https://www.lrz.de/presse/ereignisse/2022-05-26-BEAST-en/). Such challenging service largely improved my ability of **providing sofware as a service**.
 
 `2022-Today`
 - [DPEcho](https://github.com/LRZ-BADW/DPEcho)<br>
