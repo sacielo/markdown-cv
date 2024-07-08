@@ -4,13 +4,13 @@ title: Salvatore Cielo
 ---
 
 # Salvatore Cielo, Ph.D.
+< img src="photo.jpg" alt="Salvatore Cielo" width=100  style="position:absolute; top:-150px; left:-120px;" />  
 Dr. Rer. Nat., Astrophysicist, HPC Expert
 
 ## General
 > _"Kennst du das Land, wo die Zitronen blühn [...]?" <br> - J.W. Goethe_
 
 ### Personal
-<img src="photo.jpg" alt="Salvatore Cielo" width=100  style="position:relative; top:-150px; left:-120px;"/>  
 
 `Birthdate`
 1986-08-27
