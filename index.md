@@ -32,7 +32,7 @@ Boltzmannstr. 1, D-85748 Garching bei München
 <a href="mailto:cielo@lrz.de">cielo@lrz.de</a>
 
 `Online CV`
-<a href="https://sacielo.github.io/markdown-cv/"> sacielo.github.io/markdown-cv </a> (recommended)
+<a href="https://sacielo.github.io/markdown-cv/"> sacielo.github.io/markdown-cv</a> (online view recommended)
 
 ## Skills and Experience
 > _"[...] the Universe as a whole, in its full complexity, cannot be represented by any simulation smaller than itself." <br> - I. Asimov_
@@ -100,7 +100,7 @@ I was granted **large allocations on national Supercomputers** and learned to se
 ### Student
 `2011-2015` __Max Planck Institute for Astronomy, Heidelberg, Germany__
 - _Magna cum laude_ Doctorate in Physics within the "International Max Planck Research School"  <br>
-I used a broad set of **numerical simulations** to help constrain the role of Active Galactic Nuclei on the star formation rates in observed galaxies. I also learned about the role of numerical models in the scientific process, and largely improved my **parallel programming** skills.
+I used a broad set of **numerical simulations** to help constraining the role of Active Galactic Nuclei on the star formation rates in observed galaxies. I also learned about the role of numerical models in the scientific process, and largely improved my **parallel programming** skills.
 
 `2006-2011` __Universita' di Catania, Catania, Italy__
 - B.Sc. and M.Sc. student in Physics, oriented to Astrophysics and and Space Physics
@@ -159,7 +159,11 @@ PUNCH4NFDI Consortium - Involved in [Task Area](https://www.punch4nfdi.de/consor
 
 ### Software development
 `2024-Today` 
-- GPU Computing with Julia
+- GPU Computing with Julia <br>
+The possibilities offered by Julia as a high-level, HPC language caught my attention, also in connection with [use cases by AstroLab teammates](https://doku.lrz.de/code-modernization-projects-10747323.html#CodeModernizationProjects-GPU-offloadingandParallelisationofGaPSE.jl(2024+)).
+Hence it is desirable to use **Julia for GPU programming**, using [oneAPI.jl](https://github.com/JuliaGPU/oneAPI.jl)
+(specific for Intel GPUs, with library interfaces requiring minimal code changes) and [KernelAnstraction.jl](https://juliagpu.github.io/KernelAbstractions.jl/stable/)
+(for any CPU/GPU, for the user to program their parellel kernels manually, SYCL-style). Both packages provide large speedup and are being documented for LRZ user advantage.
 
 `2023-Today`
 - SYCL on heterogenous harware <br>
@@ -170,11 +174,12 @@ In synergy with DPEcho, I became increasingly involved the LRZ efforts in provid
 Through this code development project, carried on with Intel support, I became **proficient in heterogenous computing** with SYCL. Born as SYCL porting of the GR-MHD ECHO code, its focus shifted to its **excellent benchmarking capabilities**, including CPU and GPU **energy-to-solution** measurements, on both HPC-grade and consumer-grade hardware.
 
 `2020-Today`
-- Python on Intel hardware
+- Python on Intel hardware<br>
+Vendor-provided distributions for python can greatly enhance performance and parallelism with mininal user effort. In the case of the [yt-project](https://yt-project.org/doc/index.html) for simulation post-processing, the workflow I developed for **Intel CPUs** is now acknowledged in the [official documentation](https://yt-project.org/doc/installing.html#intel-distribution-for-python). More recently, I targeted Intel GPUs with the [Intel Data Parallel Extensions for Python ](https://intelpython.github.io/DPEP/main/), yieldng up to **tenfold speedup over CPUs** with no code changes (in prep).
 
 `2019-Today` 
-- VisIt and OSPRay Studio
-
+- [VisIt](https://doku.lrz.de/visit-10746458.html) and [OSPRay](https://www.ospray.org/)<br>
+The scientific visualization software VisIt recently embedded Intel OSPRay as a very efficient CPU/GPU renderer for ray tracing. I maintain such service for LRZ users with direct contact and support of developers of both software. Especially VisIt, with its complex server/client GUI interface, **proved a challenging corner case** in software provisioning that is now an example of efficiency, well appreciated by users.
 
 ### Teaching 
 `2022`
@@ -237,7 +242,8 @@ Poster in IWOCL/SYCLcon 2023
 `2021`
 - [Visualization of Human-scale Blood Flow Simulation using Intel OSPRay Studio on SuperMUC-NG](https://sc21.supercomputing.org/proceedings/sci_viz/sci_viz_files/svs102s2-file1.pdf) <br> SC21 International HPC Conference - Companion paper to the scientific visualization submission
 
-`2019` [Visualizing the world’s largest turbulence simulation](https://sc19.supercomputing.org/proceedings/sci_viz/sci_viz_files/svs103s2-file1.pdf) <br> SC21 International HPC Conference - Companion paper to the scientific visualization submission
+`2019` 
+- [Visualizing the world’s largest turbulence simulation](https://sc19.supercomputing.org/proceedings/sci_viz/sci_viz_files/svs103s2-file1.pdf) <br> SC21 International HPC Conference - Companion paper to the scientific visualization submission
 
 `2019`
 - [Optimizing Astrophysical Simulation and Data Analysis Codes on Intel Architectures](https://ixpug.org/resources/optimizing-astrophysical-simulation-and-data-analysis-codes-on-intel-architectures)
