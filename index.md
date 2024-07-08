@@ -10,7 +10,7 @@ Dr. Rer. Nat., Astrophysicist, HPC Expert
 > _"Kennst du das Land, wo die Zitronen blühn [...]?" <br> - J.W. Goethe_
 
 ### Personal
-<img src="photo.jpg" alt="Salvatore Cielo" width=100  style="position:relative; top:-250px; left:-120px;"/>  
+<img src="photo.jpg" alt="Salvatore Cielo" width=100  style="position:relative; top:-150px; left:-120px;"/>  
 
 `Birthdate`
 1986-08-27
