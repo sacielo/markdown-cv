@@ -9,36 +9,37 @@ Dr. Rer. Nat., Astrophysicist, HPC Expert
 > _"Kennst du das Land, wo die Zitronen blühn [...]?" <br> - J.W. Goethe_
 
 ### Personal
-`Birthdate`
+`Birthdate` <br>
 1986-08-27
 
-`Birthplace`
+`Birthplace`<br>
 Palermo, Italy
 
-`Citizenship`
+`Citizenship`<br>
 Italian
+
 ### Contact 
 
-`Affiliation`
+`Affiliation`<br>
 [Leibniz Supercomputing Centre](https://www.lrz.de/)(LRZ) of the Bavarian Academy of Science and Humanities
 
-`Address`
+`Address`<br>
 Boltzmannstr. 1, D-85748 Garching bei München
 
-`Phone`
+`Phone`<br>
 (+49|0)89 35831 8870
 
-`email`
+`email`<br>
 <a href="mailto:cielo@lrz.de">cielo@lrz.de</a>
 
-`Online CV`
+`Online CV`<br>
 <a href="https://sacielo.github.io/markdown-cv/"> sacielo.github.io/markdown-cv</a> (online view recommended)
 
 ## Skills and Experience
 > _"[...] the Universe as a whole, in its full complexity, cannot be represented by any simulation smaller than itself." <br> - I. Asimov_
 
 ### Key abilities
-`HPC`
+`HPC`<br>
 - Yearslong expertise on _High-Performance Computing_ (HPC) with focus on application support
 - Deep knowlegde of **heterogeneous HPC hardware**
 - Cross-architeture **performance tuning** of multiple code basis and across several programming languages
@@ -46,13 +47,12 @@ Boltzmannstr. 1, D-85748 Garching bei München
 - Cross-architecture **GPU programming**
   
 ### Soft skills
-
-`Management`  
+`Management`  <br>
 - Team leading, project ideation and management
 - Involvement in hardware/software **co-design** activities, **benchmarking** and **procurements** of hardware and services
 - **Community** building including teammates, **colleagues within and outside my own group**, user base and vendors
 
-`Technical`
+`Technical`<br>
 - Reviewer of papers and **proposals for HPC** and Astrophysics fields
 - Scientific writing, teaching and public speaking
 
@@ -60,25 +60,25 @@ Boltzmannstr. 1, D-85748 Garching bei München
 
 ### Research interests
 
-`Scientific` <br> `Applications`
+`Scientific Applications` <br>
 - Functionality, **performance and portability** of scientific applications
 - Award-winning scientific **visualizations**
 - Fundamental Physics, Extragalactic Astrophysics and Black Holes, especially numerical modeling
 
 ### Languages Spoken
-`Native` 
+`Native` <br>
 Italian
 
-`Good`
+`Good` <br>
 English
 
-`Good`
+`Good`<br>
 German
 
-`Intermediate`
+`Fair`<br>
 French
 
-`Beginner`
+`Beginner`<br>
 Spanish
 
 ## Career
