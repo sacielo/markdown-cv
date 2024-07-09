@@ -67,19 +67,19 @@ Boltzmannstr. 1, D-85748 Garching bei München
 - Fundamental Physics, Extragalactic Astrophysics and Black Holes, especially numerical modeling
 
 ### Languages Spoken
-`Native`
+`+++`
 Italian
 
-`Good`
+`++`
 English
 
-`Good`
+`++`
 German
 
-`Fair`
+`+`
 French
 
-`Beginner`
+`+`
 Spanish
 
 ## Career
