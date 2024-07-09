@@ -264,7 +264,7 @@ In prep.
 Online article, also appeared on _The Parallel Universe Magazine_, Issue 51
 
 `2022` 
-- [Speeding Up Simulation Analysis with yt* and Intel® Distribution for Python](https://www.intel.com/content/www/us/en/developer/articles/news/parallel-universe-magazine/issue-38-october-2019.html)  <br>
+- [Speeding Up Simulation Analysis with yt and Intel Distribution for Python](https://www.intel.com/content/www/us/en/developer/articles/news/parallel-universe-magazine/issue-38-october-2019.html)  <br>
 Article appeared on _The Parallel Universe Magazine_, Issue 38
 
 `2015` 
