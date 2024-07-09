@@ -160,6 +160,10 @@ Principal Investigator in [Gauss Centre for Supercomputing](https://www.gauss-ce
 - [Particles, Universe NuClei and Hadrons for the Nationale Forschungs-Daten Infrastruktur](https://www.punch4nfdi.de/)  <br>
 PUNCH4NFDI Consortium - Involved in [Task Area](https://www.punch4nfdi.de/consortium_amp_nfdi/task_areas/) 3 (_Data transformations_) and, to lesser degree, 2 (_Data management_)
 
+`2022` 
+- SPACE Centre of Exellence with European High-Performance Computing Joint Undertaking (EuroHPC JU) <br>
+_Preliminary Involvement_ in the founding proposal _(later dropped)_, dealing with EuroHPC JU funding regulations
+  
 ### Software development
 `2024-Today` 
 - GPU Computing with Julia <br>
