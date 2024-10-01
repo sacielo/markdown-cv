@@ -145,7 +145,7 @@ Development of numerical models for radio-loud and radio-quiet quasars; estimate
 
 ### Committees and Proposals 
 `2024`
-- [Towards exascale-ready astrophysics](https://indico3-jsc.fz-juelich.de/event/169/)  <br>
+- [TERA24: Towards exascale-ready astrophysics](https://indico3-jsc.fz-juelich.de/event/169/)  <br>
 Board member of [Scientific Organizing Committee](https://indico3-jsc.fz-juelich.de/event/169/page/9-organisers).
 
 `2023-2024` 
