@@ -48,7 +48,8 @@ Boltzmannstr. 1, D-85748 Garching bei München
 - Cross-architeture **performance tuning** of multiple code basis and across several programming languages
 - Creation and maintenance of **software stack for HPC systems**
 - Cross-architecture **GPU programming**
-  
+- Solo and Team minimalistic application development
+
 ### Soft skills
 `Management`
 - Team leading, project ideation and management
@@ -58,13 +59,13 @@ Boltzmannstr. 1, D-85748 Garching bei München
 `Technical`
 - Reviewer of papers and **proposals for HPC** and Astrophysics fields
 - Scientific writing, teaching and public speaking
-- Information Security Management System - informal training
+- Information Security Management System - formal training a
 - Incident Management / Problem Management - daily experience
 
 ### Research interests
 - Functionality, **performance and portability** of scientific applications
 - Award-winning scientific **visualizations**
-- Fundamental Physics, Extragalactic Astrophysics and Black Holes, especially numerical modeling
+- Fundamental Physics, Extragalactic Astrophysics and Black Holes, especially numerical modeling, computational biophysics
 
 ### Languages Spoken
 `+++`
@@ -165,6 +166,10 @@ PUNCH4NFDI Consortium - Involved in [Task Area](https://www.punch4nfdi.de/consor
 _Preliminary Involvement_ in the founding proposal _(later dropped)_, dealing with EuroHPC JU funding regulations
   
 ### Software development
+`2025-Today` 
+- Energy efficiency in heterogeneous hardware <br>
+Energy efficiency is, besides a mandatory goal of modern HPC, among the most proper metric to assess [how given hardware perform on specific benchmarks](https://zenodo.org/records/15163840), very informative for orienting developement and procurement choices. I have thus being designing tools [to automate such measurements](https://github.com/LRZ-BADW/DPEcho/blob/main/tools/deltaEnergy.sh), which may otherwise require techniques as heterogeneous as the condsidered hardware components.
+
 `2024-Today` 
 - GPU Computing with Julia <br>
 The possibilities offered by Julia as a high-level, HPC language caught my attention, also in connection with [use cases by AstroLab teammates](https://doku.lrz.de/code-modernization-projects-10747323.html#CodeModernizationProjects-GPU-offloadingandParallelisationofGaPSE.jl(2024+)).
@@ -182,11 +187,11 @@ Through this code development project, carried on with Intel support, I became *
 
 `2020-Today`
 - Python on Intel hardware<br>
-Vendor-provided distributions for python can greatly enhance performance and parallelism with mininal user effort. In the case of the [yt-project](https://yt-project.org/doc/index.html) for simulation post-processing, the workflow I developed for **Intel CPUs** is now acknowledged in the [official documentation](https://yt-project.org/doc/installing.html#intel-distribution-for-python). More recently, I targeted Intel GPUs with the [Intel Data Parallel Extensions for Python ](https://intelpython.github.io/DPEP/main/), yieldng up to **tenfold speedup over CPUs** with no code changes (in prep).
+Vendor-provided distributions for python can greatly enhance performance and parallelism with mininal user effort. In the case of the [yt-project](https://yt-project.org/doc/index.html) for simulation post-processing, the workflow I developed for **Intel CPUs** is now acknowledged in the [official documentation](https://yt-project.org/doc/installing.html#intel-distribution-for-python). More recently, I targeted Intel GPUs with the [Intel Data Parallel Extensions for Python ](https://intelpython.github.io/DPEP/main/), which culminated in the[ inclusion of the DPNP framework in the `npbench` suite](https://github.com/spcl/npbench) in 2025 (atricle in prep.).
 
 `2019-Today` 
 - [VisIt](https://doku.lrz.de/visit-10746458.html) and [OSPRay](https://www.ospray.org/)<br>
-The scientific visualization software VisIt recently embedded Intel OSPRay as a very efficient CPU/GPU renderer for ray tracing. I maintain such service for LRZ users with direct contact and support of developers of both software. Especially VisIt, with its complex server/client GUI interface, **proved a challenging corner case** in software provisioning that is now an example of efficiency, well appreciated by users.
+The scientific visualization software VisIt recently embedded Intel OSPRay as a very efficient CPU/GPU renderer for ray tracing. I maintain such service for LRZ users, **up to full machine scale** with direct contact and support of developers of both software. Especially VisIt, with its complex server/client GUI interface, **proved a challenging corner case** in software provisioning that is now an example of efficiency, well appreciated by users.
 
 ### Teaching 
 `2022`
@@ -261,7 +266,7 @@ Talks at the [Intel eXtreme Performance User Group - IXPUG 2019](https://www.ixp
 ### Other
 `2024` 
 - [Magnetized compressible turbulence with a fluctuation dynamo and Reynolds numbers over a million](https://ui.adsabs.harvard.edu/abs/2024arXiv240516626B/abstract) <br>
-In prep.
+Accepted for publication by Nature Astronomy
 
 `2023` 
 - [DPEcho: General Relativity with SYCL for the 2020s and beyond](https://www.intel.com/content/www/us/en/developer/articles/technical/dpecho-general-relativity-sycl-for-2020-beyond.html) <br>
@@ -277,6 +282,6 @@ Ph.D. Dissertation with bilingual (EN/DE) abstract
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: April 2025 -->
 
 
