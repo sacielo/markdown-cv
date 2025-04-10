@@ -59,7 +59,7 @@ Boltzmannstr. 1, D-85748 Garching bei München
 `Technical`
 - Reviewer of papers and **proposals for HPC** and Astrophysics fields
 - Scientific writing, teaching and public speaking
-- Information Security Management System - formal training a
+- Information Security Management System - formal training
 - Incident Management / Problem Management - daily experience
 
 ### Research interests
