@@ -231,7 +231,7 @@ Mentoring of an intern at Leibniz Supercomputing Center (3+3 months)
 
 ### Conferences
 `2024` 
-- [Application Perspective on SYCL, a Modern Programming Model for Performance and Portability ](https://pasc24.pasc-conference.org/program/) <br>
+- [Application Perspective on SYCL, a Modern Programming Model for Performance and Portability ](https://doi.org/10.5281/zenodo.15163839) <br>
 **Minisymposium talk** to PASC 2024 international HPC conference
 
 `2024` 
