@@ -1,7 +1,7 @@
 ---
- layout: cv
- title: Salvatore Cielo
- ---
+layout: cv
+title: Salvatore Cielo
+---
  
 # Salvatore Cielo, Ph.D.
 <img src="photo.jpg" alt="Salvatore Cielo" width=100  style="position:absolute; top:-36px; left:-120px;" />  
