@@ -29,8 +29,8 @@ Italian
 `Address`
 Boltzmannstr. 1, D-85748 Garching bei München
 
-`Phone`
-(+49|0)89 35831 8870
+`LinkedIn`
+[Salvo Cielo](https://www.linkedin.com/in/salvo-cielo-a561992b2/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BRxSGn2bjSROUFJbKyw%2FbRA%3D%3D)
 
 `email`
 <a href="mailto:cielo@lrz.de">cielo@lrz.de</a>
@@ -222,6 +222,10 @@ Mentoring of an intern at Leibniz Supercomputing Center (3+3 months)
 > records for a more comprehensive list.
 
 ### Journals
+
+`2025`
+- [The spectrum of magnetized turbulence in the interstellar medium](https://www.nature.com/articles/s41550-025-02551-5)
+
 `2022` 
 - [Optimizing the hybrid parallelization of BHAC](https://ui.adsabs.harvard.edu/#abs/2022A%26C....3800509C/abstract)
 
